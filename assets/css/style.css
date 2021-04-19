@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* navigation bar */
+
+#contents {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#contents li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#contents a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#contents a:hover{
+    border-bottom: 1px solid #3a3a3a;
+}
