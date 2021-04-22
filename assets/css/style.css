@@ -21,12 +21,21 @@ body {
     background: url('../images/compressor.jpg');
     background-size: cover;
 }
+/* need to organise layout of profile pic*/
+
+#profile-pic {
+
+    width: 300px;
+    height: 200px;
+    background: url(../images/profile.jpg) no-repeat;
+    background-size: contain;
+}
 
 #name {
     color: #fff;
     text-align: right;
     padding-top: 125px;
-    padding-right: 700px;
+    padding-right: 650px;
     font-size: xx-large;
 }
 
