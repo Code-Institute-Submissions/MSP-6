@@ -16,12 +16,27 @@ body {
 /* header image and settings */
 
 #header-back {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url('../images/compressor.jpg');
-    background-size: contain;
+    background-size: cover;
 }
 
+#name {
+    color: #fff;
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 500px;
+    font-size: xx-large;
+}
+
+#quote{
+    color: #fff;
+    text-align: right;
+    padding-top: 100px;
+    padding-right: 400px;
+    font-size: xx-large;
+}
 
 
 /* navigation bar */
