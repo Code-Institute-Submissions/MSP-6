@@ -33,19 +33,22 @@ body {
 /* need to organise layout of profile pic*/
 
 #profile-border {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
     width: 300px;
     height: 300px;
     padding: 30px;
     border-style: solid;
     border-color: #ccc;
-    border-width: 1px;
+    border-width: 0;
     border-radius: 50%;
     margin: 50px auto;
     margin-left: 50px;
-    float: left;
 }
 
 #profile-pic {
+    
     background: url("../images/profile.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
@@ -72,17 +75,16 @@ body {
     top: 150px;
     right: 400px;
     position: absolute;
+    padding-top: 30px;
+    width: 50%;
+    float: right;
 }
 
-#quote{
+#name h3 {
+    padding-top: 10px;
     color: #fff;
-    text-align: right;
     font-size: x-large;
-    top: 250px;
-    right: 400px;
-    position: absolute;
 }
-
 
 /* navigation bar */
 
