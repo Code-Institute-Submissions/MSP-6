@@ -15,36 +15,47 @@ body {
 
 /* header image and settings */
 
+/* #header {
+    height: 150px;
+    width: 150px;
+    overflow: hidden; 
+
+    position: relative;
+} */
+
 #header-back {
     height: 500px;
     width: 100%;
     background: url('../images/compressor.jpg');
     background-size: cover;
+    position: relative;
 }
 /* need to organise layout of profile pic*/
 
 #profile-pic {
-
-    width: 300px;
-    height: 200px;
-    background: url(../images/profile.jpg) no-repeat;
-    background-size: contain;
+    width: 400px;
+    height: 300px;
+    top: 100px;
+    left: 200px;
+    position: absolute;
 }
 
 #name {
     color: #fff;
     text-align: right;
-    padding-top: 125px;
-    padding-right: 650px;
     font-size: xx-large;
+    top: 150px;
+    right: 400px;
+    position: absolute;
 }
 
 #quote{
     color: #fff;
     text-align: right;
-    padding-top: 75px;
-    padding-right: 600px;
     font-size: x-large;
+    top: 250px;
+    right: 400px;
+    position: absolute;
 }
 
 
