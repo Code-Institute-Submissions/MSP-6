@@ -32,12 +32,37 @@ body {
 }
 /* need to organise layout of profile pic*/
 
-#profile-pic {
-    width: 400px;
+#profile-border {
+    width: 300px;
     height: 300px;
-    top: 100px;
-    left: 200px;
-    position: absolute;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 50px auto;
+    margin-left: 50px;
+    float: left;
+}
+
+#profile-pic {
+    background: url("../images/profile.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+
+    animation-name: profile-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards; 
+}
+
+/* creates the level of zoom for the profile picture */
+@keyframes profile-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 #name {
