@@ -6,7 +6,6 @@
     border: 0;
 }
 
-
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
@@ -14,15 +13,6 @@ body {
 }
 
 /* header image and settings */
-
-/* #header {
-    height: 150px;
-    width: 150px;
-    overflow: hidden; 
-
-    position: relative;
-} */
-
 #header-back {
     height: 500px;
     width: 100%;
@@ -30,7 +20,6 @@ body {
     background-size: cover;
     position: relative;
 }
-/* need to organise layout of profile pic*/
 
 #profile-border {
     padding-top: 30px;
@@ -52,7 +41,6 @@ body {
     background: url("../images/profile1.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
-
     animation-name: profile-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards; 
@@ -68,6 +56,7 @@ body {
     }
 }
 
+/* header text settings */
 #name {
     color: #fff;
     text-align: left;
@@ -81,7 +70,7 @@ body {
 }
 #name h2 {
     opacity: 0;
-    animation: name1 3s ease-out 0.75s forwards;
+    animation: name1 1s ease-out 0.75s forwards;
 }
 
 #name h3 {
@@ -89,7 +78,7 @@ body {
     padding-top: 10px;
     color: #fff;
     font-size: x-large;
-    animation: name1 5s ease-out 3s forwards;
+    animation: name1 3s ease-out 1.5s forwards;
 }
 
 @keyframes name1 {
@@ -102,7 +91,6 @@ body {
 }
 
 /* navigation bar */
-
 #menu {
     position: absolute;
     bottom: 0;
@@ -125,6 +113,7 @@ body {
     list-style-type: none;
     text-align: center;
     width: 20%;
+    padding-bottom: 1%;
 }
 
 #contents a {
@@ -140,4 +129,13 @@ body {
 #contents a:active {
     background-color: rgba(250, 250, 250, .5);
     padding: 5px;
+}
+
+/* footer background and settings */
+#footer {
+    height: 100px;
+    width: 100%;
+    background: url('../images/background-2.jpg');
+    background-size: cover;
+    position: fixed;
 }
