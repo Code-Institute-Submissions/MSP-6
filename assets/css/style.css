@@ -212,3 +212,10 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     opacity: 0;
     z-index: -1;
   }
+
+  /* logo parameters */
+
+  #ptsblogo {
+
+      padding-right: 5px;
+  }
