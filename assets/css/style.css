@@ -130,7 +130,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 /*Main body formatting */
 
 #mainbody {
-    height: 550px;
+    height: 100%;
     width: 100%;
     background: url('../images/mbody.jpg');
     background-color: #ffc756;
@@ -197,6 +197,17 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     padding: 0 1em;
     color: #2c3e50;
     transition: all .35s;
+    display: flex;
+    flex-direction: row;
+  }
+  .logo {
+    padding-left: 50px;
+    padding-top: 20px;
+    width: 30%;
+  }
+  .responsibilities {
+      padding-left: 20px;
+      padding-bottom: 10px;
   }
 
   input:checked + .tab-label {
@@ -215,7 +226,3 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
   /* logo parameters */
 
-  #ptsblogo {
-
-      padding-right: 5px;
-  }
