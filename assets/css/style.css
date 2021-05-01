@@ -176,10 +176,11 @@ https://hipwallpaper.com/best-webpage-backgrounds/
   }
    
   .tab {
-    width: 90%;
-    color: black;
+    width: 100%;
+    color: white;
     overflow: hidden;
-    margin: auto;
+    margin: 5px;
+    border: 2px solid black;
 
   }
   .tab-label {
@@ -188,12 +189,8 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     padding: 10px;
     background: url(../images/mbody2.jpg);
     font-weight: bold;
-    font-size: xx-large;
+    font-size: x-large;
 }
-
-  .tab-label:hover {
-    background: url(../images/mbody2.jpg);
-  }
 
   .tab-content {
     max-height: 0;
@@ -205,9 +202,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
   input:checked + .tab-label {
     background: url(../images/mbody2.jpg);;
   }
-  input:checked + .tab-label::after {
-    transform: rotate(90deg);
-  }
+
   input:checked ~ .tab-content {
     max-height: 100vh;
     padding: 1em;
