@@ -20,6 +20,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     height: 450px;
     width: 100%;
     background: url('../images/background-1.jpg');
+    background-color: black;
     background-size: cover;
     position: relative;
 }
@@ -128,9 +129,10 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 /*Main body formatting */
 
 #mainbody {
-    height: 500px;
+    height: 550px;
     width: 100%;
     background: url('../images/mbody.jpg');
+    background-color: #ffc756;
     background-size: cover;
     position: relative;
 }
@@ -138,7 +140,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 /* footer background and settings */
 #footer {
-    height: 75px;
+    height: 50px;
     width: 100%;
     bottom: 0;
     background: url('../images/background-1.jpg');
