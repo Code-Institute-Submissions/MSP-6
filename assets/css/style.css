@@ -224,5 +224,30 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     z-index: -1;
   }
 
-  /* logo parameters */
+  /*Certificate page formatting */
 
+  #certificate {
+      display: inline-flex;
+  }
+
+#certdetails {
+    display:inline-block; 
+    padding-left: 100px;
+    padding-top: 40px;
+    vertical-align: top;
+}
+
+#certdetails h2 {
+    padding-bottom: 15px;
+    color: inherit;
+}
+
+#certdetails a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.certlogo {
+    padding-left: 200px;
+    padding-top: 20px;
+  }
