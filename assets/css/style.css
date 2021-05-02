@@ -269,10 +269,11 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     width: 300px;
     padding: 10px;
     border-radius: 10px;
-    background-color: black;
+    background-color: #806f4d;
     text-align: center;
     display: none;
     color: white;
+    text-shadow: 1px 0px;
 }
 
 .tooltip1:hover:before {
@@ -295,36 +296,13 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     width: 200px;
     padding: 10px;
     border-radius: 10px;
-    background-color: black;
+    background-color: #806f4d;
     text-align: center;
     display: none;
     color: white;
+    text-shadow: 1px 0px;
 }
 
 .tooltip2:hover:before {
     display: block;
-}
-
-
-/*
-.tooltip {
-    position: relative;
-    display: inline-block;
-
-}
-
-.tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
-    position: absolute;
-    z-index: 1;
-}
-
-.tooltip:hover .tooltiptext{
-    visibility: visible;
 }
