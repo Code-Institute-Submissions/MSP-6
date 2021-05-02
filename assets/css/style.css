@@ -130,7 +130,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 /*Main body formatting */
 
 #mainbody {
-    height: 100%;
+    min-height: 450px;
     width: 100%;
     background: url('../images/mbody.jpg');
     background-color: #ffc756;
@@ -168,7 +168,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 
 
-/* the styling for the "experience page toggle items */
+/* the styling for the experience page toggle items */
 .tabs {
     border-radius: 8px;
     overflow: hidden;
