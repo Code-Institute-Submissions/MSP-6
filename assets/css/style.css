@@ -236,6 +236,10 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     align-items: center;
 }
 
+.grid-item {
+    padding-top: 10px;
+}
+
 #certdetails {
     text-align: left;
 }
@@ -248,4 +252,79 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 #certdetails h2 {
     padding-bottom: 15px;
     color: inherit;
+}
+/* certificate validation link hover message */
+
+.tooltip1 {
+    position: relative;
+}
+
+.tooltip1:before {
+    content: attr(data-text);
+    position: absolute;
+    top: 50%;
+    transform:translateY(-100%) translateX(100%);
+    left: 100%;
+    margin-left: 15px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+    display: none;
+    color: white;
+}
+
+.tooltip1:hover:before {
+    display: block;
+}
+
+/* course link hover message */
+
+.tooltip2 {
+    position: relative;
+}
+
+.tooltip2:before {
+    content: attr(data-text);
+    position: absolute;
+    top: 50%;
+    transform:translateY(100%) translateX(100%);
+    left: 100%;
+    margin-left: 15px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+    display: none;
+    color: white;
+}
+
+.tooltip2:hover:before {
+    display: block;
+}
+
+
+/*
+.tooltip {
+    position: relative;
+    display: inline-block;
+
+}
+
+.tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext{
+    visibility: visible;
 }
