@@ -226,20 +226,18 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
   /*Certificate page formatting */
 
-  #certificate {
-      display: inline-flex;
-  }
-
-#certdetails {
-    display:inline-block; 
-    padding-left: 100px;
-    padding-top: 40px;
-    vertical-align: top;
+.grid-container {
+    width: 100%;
+    display: grid;
+    text-align: center;
+    grid-row-start: auto;
+    grid-template-columns: 40% 60%;
+    border-bottom: 1px solid black;
+    align-items: center;
 }
 
-#certdetails h2 {
-    padding-bottom: 15px;
-    color: inherit;
+#certdetails {
+    text-align: left;
 }
 
 #certdetails a {
@@ -247,7 +245,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     color: inherit;
 }
 
-.certlogo {
-    padding-left: 200px;
-    padding-top: 20px;
-  }
+#certdetails h2 {
+    padding-bottom: 15px;
+    color: inherit;
+}
