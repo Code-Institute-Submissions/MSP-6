@@ -238,6 +238,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 .grid-item {
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #certdetails {
@@ -250,7 +251,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 }
 
 #certdetails h2 {
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     color: inherit;
 }
 /* certificate validation link hover message */
