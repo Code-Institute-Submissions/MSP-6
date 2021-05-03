@@ -218,6 +218,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     padding-top: 20px;
     width: 30%;
   }
+  
   .responsibilities {
       padding-left: 20px;
       padding-bottom: 10px;
@@ -276,7 +277,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     content: attr(data-text);
     position: absolute;
     top: 50%;
-    transform:translateY(0) translateX(0);
+    transform:translateY(0) translateX(-100%);
     left: 100%;
     margin-left: 15px;
     width: 300px;
@@ -321,3 +322,6 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .tooltip2:hover:before {
     display: block;
 }
+
+
+/* content formatting for affiliations page */
