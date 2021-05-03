@@ -270,7 +270,6 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     position: relative;
     font-weight: bold;
     font-size: xx-large;
-    text-shadow: 1px 0 0 black;
 }
 
 .tooltip1:before {
@@ -288,7 +287,6 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     display: none;
     color: white;
     font-size: medium;
-    text-shadow: none;
 }
 
 .tooltip1:hover:before {
@@ -300,7 +298,6 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .tooltip2 {
     position: relative;
     font-size: x-large;
-    text-shadow: 1px 0 0 black;
 }
 
 .tooltip2:before {
