@@ -325,3 +325,8 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 
 /* content formatting for affiliations page */
+
+.disclaimer {
+    text-align: center;
+    padding: 10px;
+}
