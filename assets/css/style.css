@@ -129,7 +129,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 /*Main body formatting */
 
-#mainbody {
+.mainbody {
     min-height: 500px;
     width: 100%;
     background: url('../images/mbody.jpg');
@@ -168,7 +168,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 /* the styling for the experience page toggle items */
 
-#mainbody h1 {
+.mainbody h1 {
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -253,7 +253,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .grid-item {
     padding-top: 10px;
     padding-bottom: 10px;
-}
+} 
 
 #certdetails1 a, #certdetails2 a, #certdetails3 a, #certdetails4 a, #certdetails5 a, #certdetails6 a, #certdetails7 a {
     text-decoration: none;
