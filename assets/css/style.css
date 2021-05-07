@@ -27,7 +27,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 }
 
 #profile-border {
-    width: 50%;
+    width: 40%;
     float: left;
     width: 350px;
     height: 350px;
@@ -64,24 +64,28 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     color: #fff;
     text-align: left;
     font-size: xx-large;
-    top: 150px;
+    top: 120px;
     right: 0;
     position: absolute;
-    padding-top: 30px;
-    width: 50%;
+    width: 60%;
     float: right;
 }
 #name h2 {
+    padding-top: 10pxx;
     opacity: 0;
     animation: name1 1s ease-out 0.75s forwards;
 }
 
-#name h3 {
+#name h3, #main p {
     opacity: 0;
     padding-top: 10px;
     color: #fff;
     font-size: x-large;
     animation: name1 3s ease-out 1.5s forwards;
+}
+
+#name p {
+    text-align: center;
 }
 
 @keyframes name1 {
@@ -137,6 +141,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     background-color: #ffc756a1;
     background-size: cover;
     position: relative;
+    color: black;
 }
 
 
@@ -276,7 +281,7 @@ input {
 .tooltip1 {
     position: relative;
     font-weight: bold;
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .tooltip1:before {
