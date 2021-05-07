@@ -76,9 +76,9 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     animation: name1 1s ease-out 0.75s forwards;
 }
 
-#name h3, #main p {
+#name h3, #name p {
     opacity: 0;
-    padding-top: 10px;
+    padding-top: 40px;
     color: #fff;
     font-size: x-large;
     animation: name1 3s ease-out 1.5s forwards;
@@ -129,7 +129,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .active {
     border-bottom: 1px solid #fff;
     padding: 5px;
-    text-shadow: 1px 1px;
+
 }
 
 /*Main body formatting */
