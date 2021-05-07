@@ -9,13 +9,14 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: black;
 }
 
 /* header image and settings 
 Background image obtained from 
 https://hipwallpaper.com/best-webpage-backgrounds/
 */
+
 #header-back {
     height: 450px;
     width: 100%;
@@ -133,7 +134,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     min-height: 500px;
     width: 100%;
     background: url('../images/mbody.jpg');
-    background-color: #ffc756;
+    background-color: #ffc756a1;
     background-size: cover;
     position: relative;
 }
@@ -185,17 +186,17 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.5);
-  }
+}
    
-  .tab {
+.tab {
     width: 100%;
     color: #ecc5a8;
     overflow: hidden;
     margin: 5px;
     border: 2px solid black;
+}
 
-  }
-  .tab-label {
+.tab-label {
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -208,37 +209,42 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .tab-content {
     max-height: 0;
     padding: 0 1em;
-    color: #2c3e50;
+    color: black;
     transition: all .35s;
     display: flex;
     flex-direction: row;
-  }
-  .logo {
+}
+
+.logo {
     padding-left: 50px;
     padding-top: 20px;
-    width: 30%;
-  }
+    width: 25%;
+    text-align: center;
+}
   
-  .responsibilities {
-      padding-left: 20px;
-      padding-bottom: 10px;
-  }
+.responsibilities, .details {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    width: 75%;
+}
 
-  input:checked + .tab-label {
+input:checked + .tab-label {
     background: url(../images/mbody2.jpg);;
-  }
+}
 
-  input:checked ~ .tab-content {
+input:checked ~ .tab-content {
     max-height: 100vh;
     padding: 1em;
-  }
-  input {
+}
+
+input {
     position: absolute;
     opacity: 0;
     z-index: -1;
-  }
+}
 
-  /*Certificate page formatting */
+/*Certificate page formatting */
 
 .grid-container {
     width: 100%;
@@ -322,7 +328,6 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .tooltip2:hover:before {
     display: block;
 }
-
 
 /* content formatting for affiliations page */
 
