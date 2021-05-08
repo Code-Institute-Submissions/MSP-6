@@ -70,6 +70,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     width: 60%;
     float: right;
 }
+
 #name h2 {
     padding-top: 10pxx;
     opacity: 0;
@@ -172,7 +173,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     font-size: x-large;
 }
 
-/* the styling for the experience page toggle items */
+/* the styling for the experience and affiliations pages toggle items */
 
 .mainbody h1 {
     display: flex;
@@ -339,4 +340,11 @@ input {
 .disclaimer {
     text-align: center;
     padding: 10px;
+}
+
+/* Portfolio page formatting */
+
+#under_construction {
+    width: 60%;
+    padding-left: 20%;
 }
