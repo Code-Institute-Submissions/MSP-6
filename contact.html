@@ -33,8 +33,21 @@
     </section>
     <section>
         <div class="mainbody">
-            <h2>my contact details</h2>
-            <p>plus a form which allows you to send me your information</p>
+            <h1>Get in Touch</h1>
+                <form method="post" action="https://formdump.codeinstitute.net/" class="contact-form">
+                    <h2>I want to hear from you</h2>
+                    <label for="fname">Name</label>
+                    <input type="text" id="fname" name="fname" required><br>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="emailaddress" required><br>
+                    <label for="phone">Phone Number</label>
+                    <input type="text" id="phone" name="phonenumber" required><br>         
+                    <label for="email1">Email</label>
+                    <input type="radio" id="email1" name="contactpreference" value="email" required><br>           
+                    <label for="phone1">Phone</label>
+                    <input type="radio" id="phone1" name="contactpreference" value="phone"><br>           
+                    <input class="contact" type="submit" value="Send!">
+                </form>
         </div>
     </section>
     <footer>
