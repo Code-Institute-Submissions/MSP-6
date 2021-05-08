@@ -288,7 +288,7 @@ input {
     content: attr(data-text);
     position: absolute;
     top: 50%;
-    transform:translateY(0) translateX(-100%);
+    transform:translateY(0) translateX(-10%);
     left: 100%;
     margin-left: 15px;
     width: 300px;
