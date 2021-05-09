@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     border: 0;
-    text-decoration: none;
 }
 
 body {
@@ -99,7 +98,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     }  
 }
 
-/* navigation bar */
+/* navigation bar for all pages*/
 #menu {
     position: absolute;
     bottom: 0;
@@ -134,10 +133,10 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 
 }
 
-/*Main body formatting */
+/*Main body formatting for all pages except contact page */
 
 .mainbody {
-    min-height: 500px;
+    min-height: 600px;
     width: 100%;
     background: url('../images/mbody.jpg');
     background-color: #ffc756a1;
@@ -174,13 +173,43 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     font-size: x-large;
 }
 
-/* the styling for the experience and affiliations pages toggle items */
+/*formatting for the About Me page */
+
+.aboutme {
+    padding-left: 10%;
+}
+
+.aboutme p {
+    color: black;
+    float: left;
+    text-align: justify;
+    width: 80%;
+    font-size: 20px;
+    padding: 20px 0 10px 0;
+    text-indent: 50px;
+}
+
+.aboutmeskill li {
+    color: black;
+    float: left;
+    text-align: justify;
+    width: 80%;
+    font-size: 20px;
+    padding-left: 25%;
+    padding-top: 10px;
+}
+
+.aboutmeskill li i {
+    padding-right: 15px;
+}
+
+/* the styling for the experience and affiliations pages accordion text items */
 
 .mainbody h1, .mainbody1 h1 {
     display: flex;
     justify-content: center;
     padding: 10px;
-    background: url(../images/mbody2.jpg);
+    background: url("../images/mbody2.jpg");
     font-weight: bold;
     font-size: xx-large;
     color: white;
@@ -237,7 +266,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 }
 
 input[type="checkbox"]:checked + .tab-label {
-    background: url(../images/mbody2.jpg);;
+    background: url("../images/mbody2.jpg");
 }
 
 input[type="checkbox"]:checked ~ .tab-content {
@@ -336,7 +365,7 @@ input[type="checkbox"] {
     display: block;
 }
 
-/* content formatting for affiliations page */
+/* specific content formatting for affiliations page */
 
 .disclaimer {
     text-align: center;
