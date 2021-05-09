@@ -198,6 +198,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
 .mainbody h1, .mainbody1 h1 {
     display: flex;
     justify-content: center;
+    width: 100%;
     padding: 10px;
     background: url("../images/mbody2.jpg");
     font-weight: bold;
@@ -220,6 +221,7 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     overflow: hidden;
     margin: 5px;
     border: 2px solid black;
+    width: auto;
 }
 
 .tab-label {
@@ -366,7 +368,6 @@ input[type="checkbox"] {
 }
 
 /* Contact page formatting */
-
 .mainbody1 {
     min-height: 700px;
     width: 100%;
