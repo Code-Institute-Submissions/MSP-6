@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: 0;
+    text-decoration: none;
 }
 
 body {
@@ -235,16 +236,16 @@ https://hipwallpaper.com/best-webpage-backgrounds/
     width: 75%;
 }
 
-input:checked + .tab-label {
+input[type="checkbox"]:checked + .tab-label {
     background: url(../images/mbody2.jpg);;
 }
 
-input:checked ~ .tab-content {
+input[type="checkbox"]:checked ~ .tab-content {
     max-height: 100vh;
     padding: 1em;
 }
 
-input {
+input[type="checkbox"] {
     position: absolute;
     opacity: 0;
     z-index: -1;
@@ -350,19 +351,12 @@ input {
 }
 
 /* Contact page formatting */
-.form-section {
-    clear: left;
-    background: inherit;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
 
 .contact-form {
-    margin: 150px 10% 0 0;
+    margin: 20px 10% 0 0;
     color: #fff;
     background: url("../images/mbody2.jpg");
-    max-width: 400px;
+    max-width: 40%;
     position: absolute;
     left: 10%;
     padding: 30px;
@@ -373,8 +367,7 @@ input {
     margin-bottom: 20px;
 }
 
-.text-input {
-    background: transparent;
+input[type="text"], input[type="email"], input[type="tel"] {
     color: #fafafa;
     width: 100%;
     height: 25px;
@@ -383,7 +376,7 @@ input {
     border-radius: 2px;
 }
 
-.text-input:hover {
+input[type="text"], input[type="email"], input[type="tel"]:hover {
     border-color: #f16c6b;
 }
 
