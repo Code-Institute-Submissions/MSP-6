@@ -368,7 +368,7 @@ input[type="checkbox"] {
     background: url("../images/mbody2.jpg");
     max-width: 40%;
     position: absolute;
-    left: 10%;
+    left: 30%;
     padding: 30px;
 }
 
@@ -398,7 +398,8 @@ textarea {
     background: url("../images/mbody.jpg");
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
-    border-radius: 2px;    
+    border-radius: 2px; 
+    resize: none;   
 }
 
 .contact {
@@ -409,7 +410,7 @@ textarea {
     font-size: 100%;
     background-color: #e9911e;
     color: #fafafa;
-    display: block;
+    display: inline-block;
 }
 
 .contact:hover {
