@@ -467,6 +467,7 @@ textarea {
     #name h3, #name p {
 	    opacity: 100%;
         font-size: medium;
+        padding-right: 30px;
     }
 
 /* navigation bar for all pages*/
@@ -501,6 +502,7 @@ textarea {
         color: black;
         float: left;
         padding: 10px 0 10px 10%;
+        text-align: left;
     }
 
 /* the styling for the experience and affiliations pages accordion text items */
@@ -514,6 +516,12 @@ textarea {
         text-align: none;
         position: relative;
     }
+
+/* Certificate page formatting */
+    .grid-container {
+        grid-template-columns: 100%;
+    }
+
 
 /* Contact page formatting */
     .contact-form {
