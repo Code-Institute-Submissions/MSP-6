@@ -24,7 +24,6 @@ body {
 }
 
 #profile-border {
-    width: 40%;
     float: left;
     width: 350px;
     height: 350px;
@@ -434,43 +433,92 @@ textarea {
 /* @media screen and (max-width:1200px) */
 
 
-@media screen and (max-width:500) {  
+/* settings for mobile */
+
+@media only screen and (max-width:500px) {
+
+/* header image and settings */
     #header-back {
         height: 700px;
-        width: 100%;
     }
-        
+
     #profile-pic {
-        height: 50%;
+        background: url("../images/profile-1.png") no-repeat center center;
+        height: 100%;
         border-radius: 50%;
-        vertical-align: top;
+        animation-name: none;
     }
-    
-    /* header text settings */
+
+/* header text settings */
     #name {
-        color: #fff;
         text-align: center;
         font-size: large;
-        bottom: 175px;
-        right: 0;
+        top: 120px;
         position: absolute;
-        width: 100%;
-        height: 50%;
         float: center;
-        vertical-align: bottom;
+        width:auto;
+        padding-left: 30px;
     }
-    
+
     #name h2 {
-        padding-top: 10px;
-        opacity: 0;
-        animation: name1 1s ease-out 0.75s forwards;
+        padding-top: 300px;
     }
-    
+
     #name h3, #name p {
-        opacity: 0;
-        padding-top: 40px;
-        color: #fff;
+	    opacity: 100%;
         font-size: medium;
-        animation: name1 3s ease-out 1.5s forwards;
     }
-    
+
+/* navigation bar for all pages*/
+    #contents li {
+        padding: 5px 15px 3% 20px;
+        float: left;
+        list-style-type: none;
+        text-align: center;
+        width: auto;
+        padding: 5px 15px 3% 20px;
+        box-sizing: border-box;
+        font-size: 20px;
+    }
+
+    #contents a {
+        font-size: 16px;
+    }
+
+/*Main body formatting for all pages except contact page */
+    .mainbody {
+        min-height: 1200px;
+    }
+
+/* footer background and settings */
+    #footer {
+        height: 65px;
+        width: 100%;
+    }
+
+/*formatting for the About Me page */
+    .aboutmeskill li {
+        color: black;
+        float: left;
+        padding: 10px 0 10px 10%;
+    }
+
+/* the styling for the experience and affiliations pages accordion text items */
+    .tab-content {
+        flex-direction: column;
+    }
+  
+    .responsibilities, .details {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        text-align: none;
+        position: relative;
+    }
+
+/* Contact page formatting */
+    .contact-form {
+        max-width: 80%;
+        left: 5%;
+        padding: 10px;
+    }
+}
