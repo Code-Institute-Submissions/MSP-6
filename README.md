@@ -10,14 +10,14 @@ The Project will enable a user to view:
 -	Affiliations
 -	Contact
 
-# Benefits and Rational
+## Benefits and Rational
 
 Such a website will:
 -	enable recruiters / potential employers to view Courtney Marshall details in a single location,
 -	provide simple ability for users to validate certificates obtained by Courtney Marshall
 -	provide a centralised location for all publicly available coding examples
 
-# User Stories
+## User Stories
 
 Below is a high-level list of User Stories for the purposes of development, testing and delivery.
 
@@ -41,9 +41,11 @@ Functional User stories:
 -	As a User I want to be able to easily deploy this site to the cloud.
 *Interpreted from the Assignment document*
 
+
+
 # Functional Requirements Scope
 
-__Design Consistancies__
+## Design Consistancies
 The following are a list of design aspects that must be maintained throughout the site. 
 
 Header will consist of:
@@ -66,7 +68,7 @@ Footer
 - ©CourtneyMarshll2021
 
 
-__Home Page__
+## Home Page
 
 The home page is the first page a user will land on. This page will provide an image and a basic summary.
 
@@ -77,7 +79,7 @@ Key features:
 Below is the initial wire frame:
 ![Home Page]()
 
-__Work Experience/History__
+## Work Experience/History
 
 This page will detail the employment history. 
 Side toggle tab for each role/company
@@ -91,7 +93,7 @@ Below is the initial wire frame:
 
 
 
-__Certification/Education__
+## Certification/Education
 
 This page will detail the current certificates, including courses and badges. 
 
@@ -107,7 +109,7 @@ Below is the initial wire frame:
 
 
 
-__Affiliations/Groups__
+## Affiliations/Groups
 
 This page will detail the various Groups where membership is held.
 
@@ -119,7 +121,7 @@ Below is the initial wire frame:
 
 
 
-__Portfolio/Skills__
+## Portfolio/Skills
 
 This page will detail the available Projects and a description of skills. This page is not positioned more predominately on the site (ie after the “About Me” page due to the limited content available at this time). Potential for this page to be promoted once more content becomes available
 
@@ -130,7 +132,7 @@ Key features:
 Below is the initial wire frame:
 
 
-__Contact__
+## Contact
 
 This page will enable to User to contact me directly.
 
@@ -142,161 +144,162 @@ Key Features:
 Below is the initial wire frame:
 
 
+# Final/Existing Feature Outcomes
 
+- __Header Panel__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
+  - Featured on all six pages, containing a profile (cartoon) image to the left. On the right will be my name, along with a quote that is unique for each page.
+  
+Need image here desktop/tablet/phone
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+Need image here desktop/tablet/phone
 
-- __The landing page image__
+- __Footer__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - Featured on all six pages, the footer will contain links to the Linked in page and GitHub repositories for Courtney Marshall. Along with a copyright reference.
+  - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+Need Image Here desktop/tablet/phone
 
-- __Club Ethos Section__
+- __About Page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This page is the main landing page for the website
+  - The body of this page provides high level information about Courtney Marshall
+  - The information is static and brief
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+Need Image Here desktop/tablet/phone
 
-- __Meetup Times section__
+- __Experience Page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The body of this page provides details of the employment history of Courtney Marshall
+  - The roles are first presented as closed according text so to not overwhelm the User with information.
+  - Each block will initially show the "Title" = Company Name and the Role Name
+  - Once selected the according text will expand to show the company logo to the left of the page, with a hyper link to the company's webpage, this link will open in a new tab. Next to this image will be a list of responsibilities undertaken during the contract.
+  - Clicking on the "Title" again will close the accordion text
+  - All content can also be found on the LinkedIn page for Courtney Marshall
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+Need Image Here desktop/tablet/phone
 
-- __The Footer__ 
+- __Certificates Page__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The body of this page details the Certificates obtain by Courtney Marshall
+  - Each entry contains the following:
+  - Logo of the course provider with a hyperlink to their website (opens in a new tab)
+  - Name of the course, with a link to the certificate validation website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
+  - Name of the course provider, with a link to the specific course website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Need Image Here desktop/tablet/phone
 
 
-### Validator Testing 
+- __Affiliations Page__
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - The body of this page provides details of the main groups that Courtney Marshall if affiliated with.
+  - The groups are first presented as closed according text so to not overwhelm the User with information.
+  - Each block will initially show the "Title" = Group Name
+  - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Groups website.
+  - Clicking on the "Title" again will close the accordion text
 
-### Unfixed Bugs
+Need Image Here desktop/tablet/phone
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- __Portfolio Page__
 
-## Deployment
+  - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+Need Image here desktop/tablet/phone
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
+- __Contact Page__
+
+  - The body of this page provides a form by which the User can send a message to Courtney Marshall.
+  - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
+
+Need Image here desktop/tablet/phone
+
+
+# Features to be Implemented
+- Further develop the Portfolio Page as new projects become available
+
+
+# Testing 
+
+The subsections detail the proposed approach for testing of the final product. Due to the size and nature of this project, a full V-Style testing approach will not be required.
+
+## Unit Testing
+ 
+A formal round of unit testing will not be conducted for this project. Instead, there will be a form of self-peer review whereby code writing will occur on day one and code review and refactoring will occur on the following day.
+This will reduce the effect of reading what should be there instead of what is actually there.
+
+## Functionality
+ 
+A once a stable working prototype each page is available the code will be validated via both W3C html validator and the CSS jigsaw.
+
+At regular intervals this validation will occur.
+
+## User Functionality
+ 
+User acceptance testing will be conducted on an ongoing basis. Prior to each git push, an exploratory testing session will occur.
+
+Once a working prototype is available, a third-party individual will review the website as an independent user with no prior knowledge of its purpose (or project criteria). Feedback from this session will be used to further develop and/or amend the site.
+
+## Production Shakedown
+
+Once the site has been deployed the HTML code will be passed throught the official W3C validator for the HTML portions:
+
+Insert screen shot here
+
+Once the site has been deployed the CSS code will be passed throught the official Jigsaw validator for the CSS portions:
+
+Insert screen shot here
+
+### Unfixed bugs
+
+- details of any unfixed bugs here
+
+# Deployment Process
+
+## Direct Deployment
+The site was deployed to GitHub pages. 
+The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab
+  - Scroll down to the GitHub Pages section, The latest GitHub version now maintains the GitHub Pages in a new page, click the "Check it out here!" page to be redirected. 
   - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Once the master branch has been selected, click the Save button
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+    Note: It takes time to build the site, please wait 5-10 mins before clicking on the link to access the deployed site.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The repository link can be found here - https://github.com/Sphere42/MSP-1
+
+## Copying the Repository
+To copy the code to your own repository, complete the following steps:
+- 
 
 
-## Credits 
+# Credits 
+This project could not have been created without the following:
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+## Code 
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- The basis for the accordion text was learned from (https://codeconvey.com/responsive-accordion-pure-css/)
+- The basis for the Tooltips hover text was learned from (blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)
+- The basis for the form was learned from the Love Running Project from Code Institute
+- The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
 
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
+## Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
+## Additional Thanks
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+Independant Reviewers: 
 
-## Other General Project Advice
+Code Institute (https://codeinstitute.net/)
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
+Mentor: Felipe Souza Alarco
+ 
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
 
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
