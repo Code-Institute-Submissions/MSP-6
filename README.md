@@ -77,7 +77,8 @@ Key features:
 -	Body of page will be paragraph (2-3 lines) about me, goals etc (summary)
 
 Below is the initial wire frame:
-![Home Page]()
+
+![Home Page](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/aboutwf.png)
 
 ## Work Experience/History
 
@@ -91,7 +92,7 @@ Key features:
 
 Below is the initial wire frame:
 
-![Experience]()
+![Experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/experiencewf.png)
 
 ## Certification/Education
 
@@ -106,7 +107,7 @@ Key features:
 
 Below is the initial wire frame:
 
-![Certifications]()
+![Certifications](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/certwf.png)
 
 
 ## Affiliations/Groups
@@ -119,7 +120,7 @@ Key features:
 
 Below is the initial wire frame:
 
-![Affiliations]()
+![Affiliations](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/afillwf.png)
 
 
 ## Portfolio/Skills
@@ -132,7 +133,7 @@ Key features:
 
 Below is the initial wire frame:
 
-![Portfolio]()
+![Portfolio](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/portwf.png)
 
 
 ## Contact
@@ -145,7 +146,7 @@ Key Features:
 
 
 Below is the initial wire frame:
-![Contact]()
+![Contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png)
 
 
 # Final/Existing Feature Outcomes
@@ -156,7 +157,7 @@ Below is the initial wire frame:
   
 Need image here desktop/tablet/phone
 
-
+![header](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesk.PNG)
 
 
 - __Navigation Bar__
@@ -166,12 +167,16 @@ Need image here desktop/tablet/phone
 
 Need image here desktop/tablet/phone
 
+![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG)
+
 - __Footer__
 
   - Featured on all six pages, the footer will contain links to the Linked in page and GitHub repositories for Courtney Marshall. Along with a copyright reference.
   - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
 Need Image Here desktop/tablet/phone
+
+![footer](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG)
 
 - __About Page__
 
@@ -180,6 +185,8 @@ Need Image Here desktop/tablet/phone
   - The information is static and brief
 
 Need Image Here desktop/tablet/phone
+
+![aboutdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/aboutdesk.PNG)
 
 - __Experience Page__
 
@@ -192,6 +199,8 @@ Need Image Here desktop/tablet/phone
 
 Need Image Here desktop/tablet/phone
 
+![experiencedesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/experiencedesk.PNG)
+
 - __Certificates Page__
 
   - The body of this page details the Certificates obtain by Courtney Marshall
@@ -202,6 +211,7 @@ Need Image Here desktop/tablet/phone
 
 Need Image Here desktop/tablet/phone
 
+![certificatesdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/certsdesk.PNG)
 
 - __Affiliations Page__
 
@@ -213,11 +223,15 @@ Need Image Here desktop/tablet/phone
 
 Need Image Here desktop/tablet/phone
 
+![affiliationsdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/affildesk.PNG)
+
 - __Portfolio Page__
 
   - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created.
 
 Need Image here desktop/tablet/phone
+
+![portfoliodesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/portdesk.PNG)
 
 - __Contact Page__
 
@@ -225,6 +239,10 @@ Need Image here desktop/tablet/phone
   - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
 
 Need Image here desktop/tablet/phone
+
+![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/contactdesk.PNG)
+
+
 
 
 # Features to be Implemented
@@ -258,15 +276,17 @@ Once a working prototype is available, a third-party individual will review the 
 
 Once the site has been deployed the HTML code will be passed throught the official W3C validator for the HTML portions:
 
-Insert screen shot here
+![w3cvalidator]()
 
 Once the site has been deployed the CSS code will be passed throught the official Jigsaw validator for the CSS portions:
 
-Insert screen shot here
+![jigsawvalidator]()
 
 ### Unfixed bugs
 
 - details of any unfixed bugs here
+
+
 
 # Deployment Process
 
@@ -274,13 +294,26 @@ Insert screen shot here
 The site was deployed to GitHub pages. 
 The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab
+
+![Repo](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/deploy/deploy1.PNG)
+
   - Scroll down to the GitHub Pages section, The latest GitHub version now maintains the GitHub Pages in a new page, click the "Check it out here!" page to be redirected. 
+
+![githubpages](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/deploy/deploy2.PNG)
+
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, click the Save button
+
+![deploysave](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/deploy/deploy3.PNG)
+
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
     Note: It takes time to build the site, please wait 5-10 mins before clicking on the link to access the deployed site.
 
+![finallink]()
+
 The repository link can be found here - https://github.com/Sphere42/MSP-1
+
+
 
 ## Copying the Repository
 To copy the code to your own repository, complete the following steps:
@@ -299,8 +332,11 @@ This project could not have been created without the following:
 
 ## Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The background patterns/photos used on the home and sign up page are from This Open Source site
+[backgrounds](https://wallpapercave.com)
+- All logo images are obtained from the respective company/group website. The link where they are obtained is the link built into each image on the site.
+- The under construction image on the portfolio page is from:
+[underconstruction](https://www.wallpaperup.com/uploads/wallpapers/2014/09/25/455952/8d9dee7d6978d6dda0a1ee308ec01187-700.jpg)
 
 ## Additional Thanks
 
