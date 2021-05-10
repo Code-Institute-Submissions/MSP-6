@@ -12,10 +12,7 @@ body {
     color: black;
 }
 
-/* header image and settings 
-Background image obtained from 
-https://hipwallpaper.com/best-webpage-backgrounds/
-*/
+/* header image and settings */
 
 #header-back {
     height: 450px;
@@ -437,4 +434,43 @@ textarea {
 /* @media screen and (max-width:1200px) */
 
 
-@media screen and (max-width:950) {  
+@media screen and (max-width:500) {  
+    #header-back {
+        height: 700px;
+        width: 100%;
+    }
+        
+    #profile-pic {
+        height: 50%;
+        border-radius: 50%;
+        vertical-align: top;
+    }
+    
+    /* header text settings */
+    #name {
+        color: #fff;
+        text-align: center;
+        font-size: large;
+        bottom: 175px;
+        right: 0;
+        position: absolute;
+        width: 100%;
+        height: 50%;
+        float: center;
+        vertical-align: bottom;
+    }
+    
+    #name h2 {
+        padding-top: 10px;
+        opacity: 0;
+        animation: name1 1s ease-out 0.75s forwards;
+    }
+    
+    #name h3, #name p {
+        opacity: 0;
+        padding-top: 40px;
+        color: #fff;
+        font-size: medium;
+        animation: name1 3s ease-out 1.5s forwards;
+    }
+    

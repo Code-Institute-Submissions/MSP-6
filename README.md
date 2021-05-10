@@ -65,7 +65,8 @@ Body of page
 Footer
 - Will appear at the base and remain static across all pages
 - Will contain the following info:
-- ©CourtneyMarshll2021
+- Github and linkedin links
+- ©CourtneyMarshall2021
 
 
 ## Home Page
@@ -146,6 +147,7 @@ Key Features:
 
 
 Below is the initial wire frame:
+
 ![Contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png)
 
 
@@ -155,7 +157,7 @@ Below is the initial wire frame:
 
   - Featured on all six pages, containing a profile (cartoon) image to the left. On the right will be my name, along with a quote that is unique for each page.
   
-Need image here desktop/tablet/phone
+
 
 ![header](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesk.PNG)
 
@@ -165,7 +167,7 @@ Need image here desktop/tablet/phone
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-Need image here desktop/tablet/phone
+
 
 ![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG)
 
@@ -174,7 +176,7 @@ Need image here desktop/tablet/phone
   - Featured on all six pages, the footer will contain links to the Linked in page and GitHub repositories for Courtney Marshall. Along with a copyright reference.
   - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
-Need Image Here desktop/tablet/phone
+
 
 ![footer](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG)
 
@@ -184,7 +186,7 @@ Need Image Here desktop/tablet/phone
   - The body of this page provides high level information about Courtney Marshall
   - The information is static and brief
 
-Need Image Here desktop/tablet/phone
+
 
 ![aboutdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/aboutdesk.PNG)
 
@@ -197,7 +199,7 @@ Need Image Here desktop/tablet/phone
   - Clicking on the "Title" again will close the accordion text
   - All content can also be found on the LinkedIn page for Courtney Marshall
 
-Need Image Here desktop/tablet/phone
+
 
 ![experiencedesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/experiencedesk.PNG)
 
@@ -209,7 +211,7 @@ Need Image Here desktop/tablet/phone
   - Name of the course, with a link to the certificate validation website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
   - Name of the course provider, with a link to the specific course website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
 
-Need Image Here desktop/tablet/phone
+
 
 ![certificatesdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/certsdesk.PNG)
 
@@ -221,7 +223,7 @@ Need Image Here desktop/tablet/phone
   - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Groups website.
   - Clicking on the "Title" again will close the accordion text
 
-Need Image Here desktop/tablet/phone
+
 
 ![affiliationsdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/affildesk.PNG)
 
@@ -229,7 +231,7 @@ Need Image Here desktop/tablet/phone
 
   - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created.
 
-Need Image here desktop/tablet/phone
+
 
 ![portfoliodesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/portdesk.PNG)
 
@@ -238,7 +240,7 @@ Need Image here desktop/tablet/phone
   - The body of this page provides a form by which the User can send a message to Courtney Marshall.
   - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
 
-Need Image here desktop/tablet/phone
+
 
 ![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/contactdesk.PNG)
 
@@ -325,18 +327,19 @@ This project could not have been created without the following:
 
 ## Code 
 
-- The basis for the accordion text was learned from (https://codeconvey.com/responsive-accordion-pure-css/)
-- The basis for the Tooltips hover text was learned from (blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)
+- The basis for the accordion text was learned from [Code Institute](https://codeconvey.com/responsive-accordion-pure-css/)
+- The basis for the Tooltips hover text was learned from [Log Rocket Blog](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)
 - The basis for the form was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
 
 - The background patterns/photos used on the home and sign up page are from This Open Source site
-[backgrounds](https://wallpapercave.com)
+[HIP wall paper](https://hipwallpaper.com/best-webpage-backgrounds/)
 - All logo images are obtained from the respective company/group website. The link where they are obtained is the link built into each image on the site.
 - The under construction image on the portfolio page is from:
-[underconstruction](https://www.wallpaperup.com/uploads/wallpapers/2014/09/25/455952/8d9dee7d6978d6dda0a1ee308ec01187-700.jpg)
+[wallpaperup](https://www.wallpaperup.com/uploads/wallpapers/2014/09/25/455952/8d9dee7d6978d6dda0a1ee308ec01187-700.jpg)
+
 
 ## Additional Thanks
 
