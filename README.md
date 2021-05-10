@@ -91,7 +91,7 @@ Key features:
 
 Below is the initial wire frame:
 
-
+![Experience]()
 
 ## Certification/Education
 
@@ -106,7 +106,7 @@ Key features:
 
 Below is the initial wire frame:
 
-
+![Certifications]()
 
 
 ## Affiliations/Groups
@@ -119,6 +119,7 @@ Key features:
 
 Below is the initial wire frame:
 
+![Affiliations]()
 
 
 ## Portfolio/Skills
@@ -131,6 +132,8 @@ Key features:
 
 Below is the initial wire frame:
 
+![Portfolio]()
+
 
 ## Contact
 
@@ -142,6 +145,7 @@ Key Features:
 
 
 Below is the initial wire frame:
+![Contact]()
 
 
 # Final/Existing Feature Outcomes
@@ -151,6 +155,9 @@ Below is the initial wire frame:
   - Featured on all six pages, containing a profile (cartoon) image to the left. On the right will be my name, along with a quote that is unique for each page.
   
 Need image here desktop/tablet/phone
+
+
+
 
 - __Navigation Bar__
 
@@ -242,6 +249,8 @@ At regular intervals this validation will occur.
 ## User Functionality
  
 User acceptance testing will be conducted on an ongoing basis. Prior to each git push, an exploratory testing session will occur.
+
+Time will be spent testing the website in desktop browsers (Chrome, firefox, edge), tablet sizes, mobile size.
 
 Once a working prototype is available, a third-party individual will review the website as an independent user with no prior knowledge of its purpose (or project criteria). Feedback from this session will be used to further develop and/or amend the site.
 
