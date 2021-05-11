@@ -136,7 +136,7 @@ body {
 
 /* footer background and settings */
 #footer {
-    height: 50px;
+    height: 65px;
     width: 100%;
     bottom: 0;
     background: url('../images/background-1.jpg');
@@ -212,7 +212,7 @@ body {
    
 .tab {
     width: 100%;
-    color: #ecc5a8;
+    color: #ebebeb;
     overflow: hidden;
     margin: 5px;
     border: 2px solid black;
@@ -437,16 +437,21 @@ textarea {
 
 @media only screen and (max-width:500px) {
 
-/* header image and settings */
+    /* header image and settings */
     #header-back {
-        height: 700px;
+        height: 800px;
+        width: 100%;
     }
 
     #profile-pic {
         background: url("../images/profile-1.png") no-repeat center center;
         height: 100%;
+        width: 80%;
         border-radius: 50%;
         animation-name: none;
+        overflow: hidden;
+        width: 80%;
+        padding-left: 5%;
     }
 
 /* header text settings */
@@ -458,37 +463,52 @@ textarea {
         float: center;
         width:auto;
         padding-left: 30px;
+        animation: none;
     }
 
     #name h2 {
         padding-top: 300px;
+        animation: none;
+        opacity: 100%;
     }
 
     #name h3, #name p {
 	    opacity: 100%;
         font-size: medium;
         padding-right: 30px;
+        animation: none;
     }
 
 /* navigation bar for all pages*/
+    #menu {
+        grid-template-columns: 2;
+        left: 8%;
+    }
+
     #contents li {
         padding: 5px 15px 3% 20px;
         float: left;
         list-style-type: none;
         text-align: center;
-        width: auto;
-        padding: 5px 15px 3% 20px;
+        padding: 5px 15px 3% 15px;
+        margin: 5px;
+        background: url("../images/mbody2.jpg");
         box-sizing: border-box;
         font-size: 20px;
+        width: 40%;
     }
 
     #contents a {
         font-size: 16px;
+        
     }
 
-/*Main body formatting for all pages except contact page */
+/*Main body formatting for all pages except contact/about page */
     .mainbody {
         min-height: 1200px;
+    }
+    .mainbody1 {
+        min-height: 1300px;
     }
 
 /* footer background and settings */
@@ -503,6 +523,10 @@ textarea {
         float: left;
         padding: 10px 0 10px 10%;
         text-align: left;
+    }
+
+    .aboutme p {
+        text-indent: none;
     }
 
 /* the styling for the experience and affiliations pages accordion text items */
