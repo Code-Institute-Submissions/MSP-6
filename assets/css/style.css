@@ -296,65 +296,7 @@ input[type="checkbox"] {
     text-align: left;
 }
 
-
-/* certificate validation link hover message 
-.tooltip1 {
-    position: relative;
-    font-weight: bold;
-    font-size: x-large;
-}
-
-.tooltip1:before {
-    content: attr(data-text);
-    position: absolute;
-    top: 50%;
-    transform:translateY(0) translateX(-10%);
-    left: 100%;
-    margin-left: 15px;
-    width: 300px;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #806f4d;
-    text-align: center;
-    display: none;
-    color: white;
-    font-size: medium;
-    text-decoration: none;
-}
-
-.tooltip1:hover:before {
-    display: block;
-}
-
-/* course link hover message 
-.tooltip2 {
-    position: relative;
-    font-size: x-large;
-}
-
-.tooltip2:before {
-    content: attr(data-text);
-    position: absolute;
-    top: 50%;
-    transform:translateY(0) translateX(0);
-    left: 100%;
-    margin-left: 15px;
-    width: 200px;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #806f4d;
-    text-align: center;
-    display: none;
-    color: white;
-    font-size: medium;
-    text-decoration: none;
-}
-
-.tooltip2:hover:before {
-    display: block;
-}
-
- specific content formatting for affiliations page */
+ /* specific content formatting for affiliations page */
 .disclaimer {
     text-align: center;
     padding: 10px;
@@ -504,7 +446,6 @@ textarea {
 
     #contents a {
         font-size: 16px;
-        
     }
 
 /*Main body formatting for all pages except contact/about page */
@@ -548,8 +489,12 @@ textarea {
 /* Certificate page formatting */
     .grid-container {
         grid-template-columns: 100%;
+        text-align: center;
     }
 
+    .grid-item {
+        padding-left: 20px;
+    }
 
 /* Contact page formatting */
     .contact-form {
