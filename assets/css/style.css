@@ -124,7 +124,7 @@ body {
 }
 
 /*Main body formatting for all pages except about/contact page */
-.mainbody {
+.mainbody, .mainbody2 {
     min-height: 600px;
     width: 100%;
     background: url('../images/mbody.jpg');
@@ -191,7 +191,7 @@ body {
 }
 
 /* the styling for the experience and affiliations pages accordion text items */
-.mainbody h1, .mainbody1 h1 {
+.mainbody h1, .mainbody1 h1, .mainbody2 h1 {
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -338,7 +338,7 @@ input[type="checkbox"] {
 input[type="text"], input[type="email"], input[type="tel"] {
     color: black;
     background: url("../images/mbody.jpg");
-    width: 100%;
+    width: 95%;
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
@@ -356,7 +356,8 @@ textarea {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px; 
-    resize: none;   
+    resize: none; 
+    width: 95%;  
 }
 
 .contact {
@@ -378,10 +379,141 @@ textarea {
 /* media styles */
 /* @media screen and (max-width:1200px) */
 
+@media only screen and (max-width:1000px) {
+
+    /* header image and settings */
+    #header-back {
+        height: 600px;
+        width: 100%;
+    }
+
+    #profile-pic {
+        background: url("../images/profile-1.png") no-repeat center center;
+        height: 100%;
+        width: 85%;
+        border-radius: 50%;
+        animation-name: none;
+        overflow: hidden;
+        padding-left: 5%;
+    }
+
+/* header text settings 
+    #name {
+        text-align: center;
+        font-size: large;
+        top: 0px;
+        position: absolute;
+        float: center;
+        width:auto;
+        padding-left: 30px;
+        animation: none;
+    }
+
+    #name h2 {
+        padding-top: 150px;
+        animation: none;
+        opacity: 100%;
+        width: 25%;
+        padding-left: 100px;
+    }
+
+    #name h3, #name p {
+	    opacity: 100%;
+        font-size: medium;
+        padding-right: 30px;
+        animation: none;
+        width: 60%;
+    }
+
+/* navigation bar for all pages*/
+    #menu {
+        grid-template-columns: 3;
+        left: 2%;
+    }
+
+    #contents li {
+        padding: 5px 10px 20px 5px;
+        float: left;
+        list-style-type: none;
+        text-align: center;
+        margin: 5px;
+        background: url("../images/mbody2.jpg");
+        box-sizing: border-box;
+        font-size: 20px;
+        width: 30%;
+    }
+
+    #contents a {
+        font-size: 18px;
+    }
+
+/*Main body formatting for all pages except contact/about page */
+    .mainbody {
+        min-height: 1200px;
+    }
+
+    .mainbody2 {
+        min-height: 920px;
+    }
+
+/* footer background and settings */
+    #footer {
+        height: 65px;
+        width: 100%;
+    }
+
+/*formatting for the About Me page */
+    .aboutme {
+        padding-left: 5%;
+        padding-right: 0;
+    }
+
+    .aboutmeskill li {
+        color: black;
+        float: left;
+        padding: 10px 0 10px 10%;
+        text-align: left;
+    }
+
+    .aboutme p {
+        text-indent: none;
+        font-size: 18px;
+    }
+
+/* the styling for the experience and affiliations pages accordion text items */
+    .tab-content {
+        flex-direction: column;
+    }
+  
+    .responsibilities, .details {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        text-align: none;
+        position: relative;
+        height: auto;
+    }
+
+/* Certificate page formatting */
+    .grid-container {
+        grid-template-columns: 100%;
+        text-align: center;
+    }
+
+    .grid-item {
+        padding-left: 20px;
+     }
+
+/* Contact page formatting */
+    .contact-form {
+        max-width: 80%;
+        left: 5%;
+        padding: 10px;
+    }
+}
 
 /* settings for mobile */
 
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:700px) {
 
     /* header image and settings */
     #header-back {
@@ -392,11 +524,10 @@ textarea {
     #profile-pic {
         background: url("../images/profile-1.png") no-repeat center center;
         height: 100%;
-        width: 80%;
+        width: 85%;
         border-radius: 50%;
         animation-name: none;
         overflow: hidden;
-        width: 80%;
         padding-left: 5%;
     }
 
@@ -453,6 +584,9 @@ textarea {
         min-height: 1200px;
     }
     .mainbody1 {
+        min-height: 800px;
+    }
+    .mainbody2 {
         min-height: 1300px;
     }
 
@@ -484,6 +618,7 @@ textarea {
         padding-bottom: 10px;
         text-align: none;
         position: relative;
+        height: auto;
     }
 
 /* Certificate page formatting */
