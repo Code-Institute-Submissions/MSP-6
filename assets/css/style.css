@@ -282,6 +282,9 @@ input[type="checkbox"] {
     padding-top: 10px;
     padding-bottom: 10px;
 } 
+.grid-item a i {
+    padding: 0 60px 0 20px;
+}
 
 #certdetails1 a, #certdetails2 a, #certdetails3 a, #certdetails4 a, #certdetails5 a, #certdetails6 a, #certdetails7 a {
     text-decoration: none;
@@ -293,7 +296,8 @@ input[type="checkbox"] {
     text-align: left;
 }
 
-/* certificate validation link hover message */
+
+/* certificate validation link hover message 
 .tooltip1 {
     position: relative;
     font-weight: bold;
@@ -322,7 +326,7 @@ input[type="checkbox"] {
     display: block;
 }
 
-/* course link hover message */
+/* course link hover message 
 .tooltip2 {
     position: relative;
     font-size: x-large;
@@ -350,7 +354,7 @@ input[type="checkbox"] {
     display: block;
 }
 
-/* specific content formatting for affiliations page */
+ specific content formatting for affiliations page */
 .disclaimer {
     text-align: center;
     padding: 10px;
