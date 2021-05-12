@@ -123,7 +123,7 @@ body {
     padding: 5px;
 }
 
-/*Main body formatting for all pages except contact page */
+/*Main body formatting for all pages except about/contact page */
 .mainbody {
     min-height: 600px;
     width: 100%;
@@ -169,11 +169,11 @@ body {
 .aboutme p {
     color: black;
     float: left;
-    text-align: justify;
+    text-align: left;
     width: 80%;
     font-size: 20px;
     padding: 20px 0 10px 0;
-    text-indent: 50px;
+    text-indent: 10px;
 }
 
 .aboutmeskill li {
@@ -181,7 +181,7 @@ body {
     float: left;
     text-align: justify;
     font-size: 20px;
-    padding-left: 25%;
+    padding-left: 15%;
     padding-top: 10px;
     width: 70%;
 }
