@@ -124,8 +124,8 @@ body {
 }
 
 /*Main body formatting for all pages except about/contact page */
-.mainbody, .mainbody2 {
-    min-height: 600px;
+.mainbody, .mainbody1, .mainbody2 {
+    min-height: 700px;
     width: 100%;
     background: url('../images/mbody.jpg');
     background-color: #ffc756a1;
@@ -397,6 +397,19 @@ textarea {
         padding-left: 5%;
     }
 
+
+#name {
+    font-size: 18px;
+    padding-left: 50px;
+    left: 42%;
+    width: 40%;
+}
+
+#name h3, #name p {
+    font-size: 16px;
+}
+
+
 /* header text settings 
     #name {
         text-align: center;
@@ -452,10 +465,6 @@ textarea {
         min-height: 1200px;
     }
 
-    .mainbody2 {
-        min-height: 920px;
-    }
-
 /* footer background and settings */
     #footer {
         height: 65px;
@@ -478,6 +487,10 @@ textarea {
     .aboutme p {
         text-indent: none;
         font-size: 18px;
+    }
+    
+    .mainbody2 {
+        min-height: 800px;
     }
 
 /* the styling for the experience and affiliations pages accordion text items */
@@ -536,11 +549,11 @@ textarea {
         text-align: center;
         font-size: large;
         top: 120px;
-        position: absolute;
         float: center;
-        width:auto;
+        width:80%;
         padding-left: 30px;
         animation: none;
+        left: 0;
     }
 
     #name h2 {
@@ -559,7 +572,7 @@ textarea {
 /* navigation bar for all pages*/
     #menu {
         grid-template-columns: 2;
-        left: 8%;
+        left: 35px;
     }
 
     #contents li {
@@ -580,6 +593,9 @@ textarea {
     }
 
 /*Main body formatting for all pages except contact/about page */
+    #mainbodymobile {
+        min-height: 400px;
+    }
     .mainbody {
         min-height: 1200px;
     }
@@ -587,8 +603,9 @@ textarea {
         min-height: 800px;
     }
     .mainbody2 {
-        min-height: 1300px;
+        min-height: 1000px;
     }
+
 
 /* footer background and settings */
     #footer {
