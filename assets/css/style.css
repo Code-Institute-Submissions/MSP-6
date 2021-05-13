@@ -366,22 +366,32 @@ textarea {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #e9911e;
+    background-color: #d17600;
     color: #fafafa;
     display: inline-block;
 }
 
 .contact:hover {
     background-color: #fafafa;
-    color: #e9911e;
+    color: #d17600;
 }
 
-/* media styles */
-/* @media screen and (max-width:1200px) */
+/* media styles for standard enterprise tablets */
+@media screen and (max-width:1200px) {
 
+    .mainbody, .mainbody1, .mainbody2 {
+        min-height: 850px;
+    }
+
+    .contact-form {
+        left: 25%;
+    }
+}
+
+/* media styles for standard generic tablets */
 @media only screen and (max-width:1000px) {
 
-    /* header image and settings */
+/* Header image and settings for max width 1000px */
     #header-back {
         height: 600px;
         width: 100%;
@@ -397,48 +407,18 @@ textarea {
         padding-left: 5%;
     }
 
-
-#name {
-    font-size: 18px;
-    padding-left: 50px;
-    left: 42%;
-    width: 40%;
-}
-
-#name h3, #name p {
-    font-size: 16px;
-}
-
-
-/* header text settings 
     #name {
-        text-align: center;
-        font-size: large;
-        top: 0px;
-        position: absolute;
-        float: center;
-        width:auto;
-        padding-left: 30px;
-        animation: none;
-    }
-
-    #name h2 {
-        padding-top: 150px;
-        animation: none;
-        opacity: 100%;
-        width: 25%;
-        padding-left: 100px;
+        font-size: 18px;
+        padding-left: 50px;
+        left: 42%;
+        width: 40%;
     }
 
     #name h3, #name p {
-	    opacity: 100%;
-        font-size: medium;
-        padding-right: 30px;
-        animation: none;
-        width: 60%;
+        font-size: 16px;
     }
 
-/* navigation bar for all pages*/
+/* Navigation bar for all pages for max width 1000px*/
     #menu {
         grid-template-columns: 3;
         left: 2%;
@@ -460,18 +440,18 @@ textarea {
         font-size: 18px;
     }
 
-/*Main body formatting for all pages except contact/about page */
+/* Main body formatting for all pages except contact/about page for max width 1000px */
     .mainbody {
         min-height: 1200px;
     }
 
-/* footer background and settings */
+/* Footer background and settings for max width 1000px */
     #footer {
         height: 65px;
         width: 100%;
     }
 
-/*formatting for the About Me page */
+/* Formatting for the About Me page for max width 1000px */
     .aboutme {
         padding-left: 5%;
         padding-right: 0;
@@ -493,7 +473,7 @@ textarea {
         min-height: 800px;
     }
 
-/* the styling for the experience and affiliations pages accordion text items */
+/* Styling for the experience and affiliations pages accordion text items for max width 1000px */
     .tab-content {
         flex-direction: column;
     }
@@ -506,7 +486,7 @@ textarea {
         height: auto;
     }
 
-/* Certificate page formatting */
+/* Certificate page formatting for max width 1000px */
     .grid-container {
         grid-template-columns: 100%;
         text-align: center;
@@ -514,9 +494,9 @@ textarea {
 
     .grid-item {
         padding-left: 20px;
-     }
+    }
 
-/* Contact page formatting */
+/* Contact page formatting for max width 1000px */
     .contact-form {
         max-width: 80%;
         left: 5%;
@@ -524,11 +504,10 @@ textarea {
     }
 }
 
-/* settings for mobile */
-
+/* Settings for mobile phones */
 @media only screen and (max-width:700px) {
 
-    /* header image and settings */
+    /* Header image and settings for max width 700px */
     #header-back {
         height: 800px;
         width: 100%;
@@ -544,7 +523,7 @@ textarea {
         padding-left: 5%;
     }
 
-/* header text settings */
+    /* Header text settings for max width 700px */
     #name {
         text-align: center;
         font-size: large;
@@ -569,7 +548,7 @@ textarea {
         animation: none;
     }
 
-/* navigation bar for all pages*/
+    /* Navigation bar for all pages for max width 700px */
     #menu {
         grid-template-columns: 2;
         left: 35px;
@@ -592,7 +571,7 @@ textarea {
         font-size: 16px;
     }
 
-/*Main body formatting for all pages except contact/about page */
+    /* Main body formatting for all pages except contact/about page for max width 700px */
     #mainbodymobile {
         min-height: 400px;
     }
@@ -607,13 +586,13 @@ textarea {
     }
 
 
-/* footer background and settings */
+    /* Footer background and settings for max width 700px */
     #footer {
         height: 65px;
         width: 100%;
     }
 
-/*formatting for the About Me page */
+    /* Formatting for the About Me page for max width 700px */
     .aboutmeskill li {
         color: black;
         float: left;
@@ -625,7 +604,7 @@ textarea {
         text-indent: none;
     }
 
-/* the styling for the experience and affiliations pages accordion text items */
+    /* The styling for the experience and affiliations pages accordion text items for max width 700px */
     .tab-content {
         flex-direction: column;
     }
@@ -638,7 +617,7 @@ textarea {
         height: auto;
     }
 
-/* Certificate page formatting */
+    /* Certificate page formatting for max width 700px */
     .grid-container {
         grid-template-columns: 100%;
         text-align: center;
@@ -648,7 +627,7 @@ textarea {
         padding-left: 20px;
     }
 
-/* Contact page formatting */
+/* Contact page formatting for max width 700px */
     .contact-form {
         max-width: 80%;
         left: 5%;
