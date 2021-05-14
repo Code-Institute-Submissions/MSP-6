@@ -12,7 +12,7 @@ The Project will enable a user to view:
 
 It will be user friendly across multiple devices.
 
-![Multi Device Preview]()
+![Multi Device Preview](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/multipc.PNG)
 
 
 ## Benefits and Rational
@@ -160,7 +160,7 @@ Below is the initial wire frame:
 
 # Final/Existing Feature Outcomes
 
-![Multi Device Preview]()
+![Multi Device Preview](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/multipc.PNG)
 
 
 - __Header Panel__
@@ -169,9 +169,9 @@ Below is the initial wire frame:
   
 
 
-![headerdesk]()
-![headertablet]()
-![headermobile]()
+![headerdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG)
+![headertablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG)
+![headermobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG)
 
 
 - __Navigation Bar__
@@ -179,9 +179,9 @@ Below is the initial wire frame:
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![navbar]()
-![navbartablet]()
-![navbarmobile]()
+![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesktop.PNG)
+![navbartablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG)
+![navbarmobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG)
 
 
 - __Footer__
@@ -191,7 +191,7 @@ Below is the initial wire frame:
 
 
 
-![footer]()
+![footer](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footer.PNG)
 
 - __About Page__
 
@@ -201,7 +201,7 @@ Below is the initial wire frame:
 
 
 
-![aboutdesk]()
+![aboutdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopabout.PNG)
 
 - __Experience Page__
 
@@ -214,7 +214,7 @@ Below is the initial wire frame:
 
 
 
-![experiencedesk]()
+![experiencedesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopexperience.PNG)
 
 - __Certificates Page__
 
@@ -226,7 +226,7 @@ Below is the initial wire frame:
 
 
 
-![certificatesdesk]()
+![certificatesdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG)
 
 - __Affiliations Page__
 
@@ -238,7 +238,7 @@ Below is the initial wire frame:
 
 
 
-![affiliationsdesk]()
+![affiliationsdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopaffil.PNG)
 
 - __Portfolio Page__
 
@@ -246,7 +246,7 @@ Below is the initial wire frame:
 
 
 
-![portfoliodesk]()
+![portfoliodesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopport.PNG)
 
 - __Contact Page__
 
@@ -255,7 +255,7 @@ Below is the initial wire frame:
 
 
 
-![contactdesk]()
+![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG)
 
 
 
@@ -288,21 +288,29 @@ __Compatability testing:__
 
 __iphone6/7/8 plus:__
 Device width: 414px
+
 Passed Tests:
-
-
-Failed Tests:
-
+![iphoneabout]()
+![iphoneexperience]()
+![iphonecerts]()
+![iphoneaffil]()
+![iphoneport]()
+![iphonecontact]()
 
 Outcome:
-Changes required: Text size adjusted to a smaller font and the height of the "click boxes" on the experience pages was increased.
-
-Second Round Retests:
+Initially changes were required: Text size adjusted to a smaller font and the height of the "click boxes" on the experience pages was increased.
 
 
 __samsung galaxy s5:__
 Device width 360px
 Passed Tests:
+
+![galaxys5about]()
+![galaxys5experience]()
+![galaxys5certs]()
+![galaxys5affil]()
+![galaxys5port]()
+![galaxys5contact]()
 
 
 Failed Tests:
@@ -314,6 +322,12 @@ __Pixel 2:__
 Device width 411px
 Passed Tests:
 
+![pixel2about]()
+![pixel2experience]()
+![pixel2certs]()
+![pixel2affil]()
+![pixel2port]()
+![pixel2contact]()
 
 Failed Tests:
 
@@ -326,6 +340,12 @@ Device width 1024px
 
 Passed Tests:
 
+![ipadproabout]()
+![ipadproexperience]()
+![ipadprocerts]()
+![ipadproaffil]()
+![ipadproport]()
+![ipadprocontact]()
 
 Failed Tests:
 
@@ -336,6 +356,13 @@ __Surface Duo:__
 Device width 540px
 
 Passed Tests:
+
+![surfaceduoabout]()
+![surfaceduoexperience]()
+![surfaceduocerts]()
+![surfaceduoaffil]()
+![surfaceduoport]()
+![surfaceduocontact]()
 
 
 Failed Tests:
@@ -348,6 +375,12 @@ Device width 1024px
 
 Passed Tests:
 
+![chromeabout]()
+![chromeexperience]()
+![chromecerts]()
+![chromeaffil]()
+![chromeport]()
+![chromecontact]()
 
 Failed Tests:
 
@@ -360,6 +393,12 @@ Device width 1024px
 
 Passed Tests:
 
+![firefoxabout]()
+![firefoxexperience]()
+![firefoxcerts]()
+![firefoxaffil]()
+![firefoxport]()
+![firefoxcontact]()
 
 Failed Tests:
 
@@ -372,6 +411,12 @@ Device width 1024px
 
 Passed Tests:
 
+![edgeabout]()
+![edgeexperience]()
+![edgecerts]()
+![edgeaffil]()
+![edgeport]()
+![edgecontact]()
 
 Failed Tests:
 
