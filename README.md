@@ -289,86 +289,62 @@ __Compatability testing:__
 __iphone6/7/8 plus:__
 Device width: 414px
 
-Passed Tests:
-![iphoneabout]()
-![iphoneexperience]()
-![iphonecerts]()
-![iphoneaffil]()
+![iphoneabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutiphone6.gif)
+![iphoneexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experienceiphone6.gif)
+![iphonecerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certificationiphone6.gif)
+![iphoneaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afilliphone6.gif)
 ![iphoneport]()
-![iphonecontact]()
-
-Outcome:
-Initially changes were required: Text size adjusted to a smaller font and the height of the "click boxes" on the experience pages was increased.
-
+![iphonecontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactiphone6.gif)
 
 __samsung galaxy s5:__
 Device width 360px
-Passed Tests:
 
-![galaxys5about]()
-![galaxys5experience]()
-![galaxys5certs]()
-![galaxys5affil]()
-![galaxys5port]()
-![galaxys5contact]()
+![galaxys5about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsgs5.gif)
+![galaxys5experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersgs5.gif)
+![galaxys5certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsgs5.gif)
+![galaxys5affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillsgs5.gif)
+![galaxys5port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsgs5.gif)
+![galaxys5contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsgs5.gif)
 
+__Moto G4:__
+Device width 360px
 
-Failed Tests:
-
-
-Outcome:
+![motog4about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutmotog4.gif)
+![motog4experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experiencemotog4.gif)
+![motog4certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certmotog4.gif)
+![motog4affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilmotog4.gif)
+![motog4port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portmtotg4.gif)
+![motog4contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactmotog4.gif)
 
 __Pixel 2:__
 Device width 411px
-Passed Tests:
 
-![pixel2about]()
-![pixel2experience]()
-![pixel2certs]()
-![pixel2affil]()
-![pixel2port]()
-![pixel2contact]()
-
-Failed Tests:
-
-
-Outcome:
-
+![pixel2about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutpixel2.gif)
+![pixel2experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experpixel2.gif)
+![pixel2certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certpixel2.gif)
+![pixel2affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillpixel2.gif)
+![pixel2port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portpixel2.gif)
+![pixel2contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactpixel2.gif)
 
 __iPad Pro:__
 Device width 1024px
 
-Passed Tests:
-
-![ipadproabout]()
-![ipadproexperience]()
-![ipadprocerts]()
-![ipadproaffil]()
-![ipadproport]()
-![ipadprocontact]()
-
-Failed Tests:
-
-
-Outcome:
+![ipadproabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif)
+![ipadproexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif)
+![ipadprocerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif)
+![ipadproaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif)
+![ipadproport](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif)
+![ipadprocontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif)
 
 __Surface Duo:__
 Device width 540px
 
-Passed Tests:
-
-![surfaceduoabout]()
-![surfaceduoexperience]()
-![surfaceduocerts]()
-![surfaceduoaffil]()
-![surfaceduoport]()
-![surfaceduocontact]()
-
-
-Failed Tests:
-
-
-Outcome:
+![surfaceduoabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif)
+![surfaceduoexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif)
+![surfaceduocerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif)
+![surfaceduoaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif)
+![surfaceduoport](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif)
+![surfaceduocontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif)
 
 __Desktop Chrome:__
 Device width 1024px
