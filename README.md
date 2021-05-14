@@ -166,11 +166,14 @@ Below is the initial wire frame:
 - __Header Panel__
 
   - Featured on all six pages, containing a profile (cartoon) image to the left. On the right will be my name, along with a quote that is unique for each page.
-  
 
-
+Desktop  
 ![headerdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG)
+
+Tablet
 ![headertablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG)
+
+Mobile
 ![headermobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG)
 
 
@@ -179,8 +182,13 @@ Below is the initial wire frame:
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
+Desktop
 ![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesktop.PNG)
+
+Tablet
 ![navbartablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG)
+
+Mobile
 ![navbarmobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG)
 
 
@@ -254,10 +262,7 @@ Below is the initial wire frame:
   - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
 
 
-
 ![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG)
-
-
 
 
 # Features to be Implemented
@@ -287,7 +292,9 @@ This website has been developed with the following compatibility in mind:
 __Compatability testing:__
 
 __iphone6/7/8 plus:__
+
 Device width: 414px
+
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutiphone6.gif" width="100" height="200" />
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experienceiphone6.gif" width="100" height="200" />
@@ -298,113 +305,112 @@ Device width: 414px
 </p>
 
 __samsung galaxy s5:__
+
 Device width 360px
 
-![galaxys5about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsgs5.gif)
-![galaxys5experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersgs5.gif)
-![galaxys5certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsgs5.gif)
-![galaxys5affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillsgs5.gif)
-![galaxys5port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsgs5.gif)
-![galaxys5contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsgs5.gif)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsgs5.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersgs5.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsgs5.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillsgs5.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsgs5.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsgs5.gif" width="100" height="200" />
+</p>
 
 __Moto G4:__
+
 Device width 360px
 
-![motog4about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutmotog4.gif)
-![motog4experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experiencemotog4.gif)
-![motog4certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certmotog4.gif)
-![motog4affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilmotog4.gif)
-![motog4port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portmtotg4.gif)
-![motog4contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactmotog4.gif)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutmotog4.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experiencemotog4.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certmotog4.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilmotog4.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portmtotg4.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactmotog4.gif" width="100" height="200" />
+</p>
 
 __Pixel 2:__
+
 Device width 411px
 
-![pixel2about](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutpixel2.gif)
-![pixel2experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experpixel2.gif)
-![pixel2certs](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certpixel2.gif)
-![pixel2affil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillpixel2.gif)
-![pixel2port](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portpixel2.gif)
-![pixel2contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactpixel2.gif)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutpixel2.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experpixel2.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certpixel2.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillpixel2.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portpixel2.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactpixel2.gif" width="100" height="200" />
+</p>
 
 __iPad Pro:__
+
 Device width 1024px
 
-![ipadproabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif)
-![ipadproexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif)
-![ipadprocerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif)
-![ipadproaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif)
-![ipadproport](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif)
-![ipadprocontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif" width="100" height="200" />
+</p>
 
 __Surface Duo:__
+
 Device width 540px
 
-![surfaceduoabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif)
-![surfaceduoexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif)
-![surfaceduocerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif)
-![surfaceduoaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif)
-![surfaceduoport](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif)
-![surfaceduocontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif" width="100" height="200" />
+</p>
 
 __Desktop Chrome:__
+
 Device width 1024px
 
-Passed Tests:
-
-![chromeabout]()
-![chromeexperience]()
-![chromecerts]()
-![chromeaffil]()
-![chromeport]()
-![chromecontact]()
-
-Failed Tests:
-
-
-Outcome:
-
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="200" height="100" />
+</p>
 
 __Desktop Firefox:__
 Device width 1024px
 
-Passed Tests:
-
-![firefoxabout]()
-![firefoxexperience]()
-![firefoxcerts]()
-![firefoxaffil]()
-![firefoxport]()
-![firefoxcontact]()
-
-Failed Tests:
-
-
-Outcome:
-
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="200" height="100" />
+</p>
 
 __Desktop Edge:__
 Device width 1024px
 
-Passed Tests:
-
-![edgeabout]()
-![edgeexperience]()
-![edgecerts]()
-![edgeaffil]()
-![edgeport]()
-![edgecontact]()
-
-Failed Tests:
-
-
-Outcome:
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="200" height="100" />
+</p>
 
 ## User Functionality
  
 User acceptance testing will be conducted on an ongoing basis. Prior to each git push, an exploratory testing session will occur.
 
-Once a working prototype is available, a third-party individual will review the website as an independent user with no prior knowledge of its purpose (or project criteria). Feedback from this session will be used to further develop and/or amend the site.
+Once a working prototype is available, third-party individuals will review the website as an independent user with no prior knowledge of its purpose (or project criteria). Feedback from this session will be used to further develop and/or amend the site.
 
 ## Production Shakedown
 
@@ -423,7 +429,9 @@ Once the site has been deployed the CSS code will be passed throught the officia
 
 ### Unfixed bugs
 
-- details of any unfixed bugs here
+- When using the browser "autofill" option the background of the form field will revert to white instead of retaining its current background image. This appears to be due to the implementation of autofill and would require Javascript to resolve in the future.
+
+- Random occurance: On occasion when accessing the website on a mobile device (primarily a phone) a white border appears on the right side of the screen. Upon navigating to a different page within the site, this bar will disappear.
 
 
 
@@ -450,8 +458,7 @@ The steps to deploy are as follows:
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
     Note: It takes time to build the site, please wait 5-10 mins before clicking on the link to access the deployed site.
 
-![finallink]()
-
+![finallink](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/deploy/deploy4.PNG)
 
 
 # Credits 
@@ -482,5 +489,3 @@ Code Institute (https://codeinstitute.net/)
 
 Mentor: Felipe Souza Alarcon
  
-
-
