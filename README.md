@@ -289,13 +289,22 @@ __Compatability testing:__
 __iphone6/7/8 plus:__
 Device width: 414px
 
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutiphone6.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experienceiphone6.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certificationiphone6.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afilliphone6.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portfolioiphone6.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactiphone6.gif" width="100" height="200" />
+
+
+<!--
 ![iphoneabout](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutiphone6.gif =100x50)
 ![iphoneexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experienceiphone6.gif)
 ![iphonecerts](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certificationiphone6.gif)
 ![iphoneaffil](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afilliphone6.gif)
 ![iphoneport]()
 ![iphonecontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactiphone6.gif)
-
+-->
 __samsung galaxy s5:__
 Device width 360px
 
