@@ -10,6 +10,11 @@ The Project will enable a user to view:
 -	Affiliations
 -	Contact
 
+It will be user friendly across multiple devices.
+
+![Multi Device Preview]()
+
+
 ## Benefits and Rational
 
 Such a website will:
@@ -49,24 +54,24 @@ Functional User stories:
 The following are a list of design aspects that must be maintained throughout the site. 
 
 Header will consist of:
-- Background colour/image different to the body, but matching the footer.
-- Professional photo to the left.
-- Name, current job title, quote to the right of the photo on three lines.
-- Quote contents will change per page.
+  - Background colour/image different to the body, but matching the footer.
+  - Professional photo to the left.
+  - Name, current job title, quote to the right of the photo on three lines.
+  - Quote contents will change per page.
 Table of Contents / Navigation bar.
-- Horizontally displayed, directly under the header.
-- Each Option will be a different (light colour).
-- Each option will appear darker when user is on that page (or hovers mouse over).
-- Box Shaped.
+  - Horizontally displayed, directly under the header.
+  - Each Option will be a different (light colour).
+  - Each option will appear darker when user is on that page (or hovers mouse over).
+  - Box Shaped.
 Body of page
-- Will be a lighter/simple background to enable easy reading of content.
-- Will appear directly under the Table of Contents/Navigation bar
-- Contents is detailed in the following sections
+  - Will be a lighter/simple background to enable easy reading of content.
+  - Will appear directly under the Table of Contents/Navigation bar
+  - Contents is detailed in the following sections
 Footer
-- Will appear at the base and remain static across all pages
-- Will contain the following info:
-- Github and linkedin links
-- ©CourtneyMarshall2021
+  - Will appear at the base and remain static across all pages
+  - Will contain the following info:
+  - Github and linkedin links
+  - ©CourtneyMarshall2021
 
 
 ## Home Page
@@ -151,7 +156,12 @@ Below is the initial wire frame:
 ![Contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png)
 
 
+
+
 # Final/Existing Feature Outcomes
+
+![Multi Device Preview]()
+
 
 - __Header Panel__
 
@@ -159,7 +169,9 @@ Below is the initial wire frame:
   
 
 
-![header](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesk.PNG)
+![headerdesk]()
+![headertablet]()
+![headermobile]()
 
 
 - __Navigation Bar__
@@ -167,9 +179,10 @@ Below is the initial wire frame:
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
+![navbar]()
+![navbartablet]()
+![navbarmobile]()
 
-
-![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG)
 
 - __Footer__
 
@@ -178,7 +191,7 @@ Below is the initial wire frame:
 
 
 
-![footer](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG)
+![footer]()
 
 - __About Page__
 
@@ -188,7 +201,7 @@ Below is the initial wire frame:
 
 
 
-![aboutdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/aboutdesk.PNG)
+![aboutdesk]()
 
 - __Experience Page__
 
@@ -201,7 +214,7 @@ Below is the initial wire frame:
 
 
 
-![experiencedesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/experiencedesk.PNG)
+![experiencedesk]()
 
 - __Certificates Page__
 
@@ -213,7 +226,7 @@ Below is the initial wire frame:
 
 
 
-![certificatesdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/certsdesk.PNG)
+![certificatesdesk]()
 
 - __Affiliations Page__
 
@@ -225,7 +238,7 @@ Below is the initial wire frame:
 
 
 
-![affiliationsdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/affildesk.PNG)
+![affiliationsdesk]()
 
 - __Portfolio Page__
 
@@ -233,7 +246,7 @@ Below is the initial wire frame:
 
 
 
-![portfoliodesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/portdesk.PNG)
+![portfoliodesk]()
 
 - __Contact Page__
 
@@ -242,7 +255,7 @@ Below is the initial wire frame:
 
 
 
-![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/contactdesk.PNG)
+![contactdesk]()
 
 
 
@@ -253,24 +266,121 @@ Below is the initial wire frame:
 
 # Testing 
 
-The subsections detail the proposed approach for testing of the final product. Due to the size and nature of this project, a full V-Style testing approach will not be required.
+The subsections detail the proposed approach for testing of the final product. Due to the size and nature of this project, a full V-Style testing approach will not be required. Instead, a simplified version of agile will be adopted.
 
 ## Unit Testing
  
-A formal round of unit testing will not be conducted for this project. Instead, there will be a form of self-peer review whereby code writing will occur on day one and code review and refactoring will occur on the following day.
-This will reduce the effect of reading what should be there instead of what is actually there.
+A formal round of unit testing will not be scripted/conducted for this project. Instead, there will be a form of self-peer review whereby code writing will occur on day one and code review and refactoring will occur on the following day.
+This will reduce the effect of; reading what should be there instead of what is actually there.
+
+A once a working prototype for each page is developed, the code will be validated via both W3C html validator and the CSS jigsaw.
+At regular intervals (upon significant updates) this validation will occur.
 
 ## Functionality
- 
-A once a stable working prototype each page is available the code will be validated via both W3C html validator and the CSS jigsaw.
 
-At regular intervals this validation will occur.
+This website has been developed with the following compatibility in mind: 
+- Desktop browsers (Chrome, firefox, edge), 
+- Enterprise tablet sizes (max width 1200), 
+- Standard generic tablet sizes (max width 1000px), 
+- Common mobile size (max width 700px).
+
+__Compatability testing:__
+
+__iphone6/7/8 plus:__
+Device width: 414px
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+Changes required: Text size adjusted to a smaller font and the height of the "click boxes" on the experience pages was increased.
+
+Second Round Retests:
+
+
+__samsung galaxy s5:__
+Device width 360px
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+__Pixel 2:__
+Device width 411px
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+
+__iPad Pro:__
+Device width 1024px
+
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+__Surface Duo:__
+Device width 540px
+
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+__Desktop Chrome:__
+Device width 1024px
+
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+
+__Desktop Firefox:__
+Device width 1024px
+
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
+
+
+__Desktop Edge:__
+Device width 1024px
+
+Passed Tests:
+
+
+Failed Tests:
+
+
+Outcome:
 
 ## User Functionality
  
 User acceptance testing will be conducted on an ongoing basis. Prior to each git push, an exploratory testing session will occur.
-
-Time will be spent testing the website in desktop browsers (Chrome, firefox, edge), tablet sizes, mobile size.
 
 Once a working prototype is available, a third-party individual will review the website as an independent user with no prior knowledge of its purpose (or project criteria). Feedback from this session will be used to further develop and/or amend the site.
 
@@ -278,7 +388,12 @@ Once a working prototype is available, a third-party individual will review the 
 
 Once the site has been deployed the HTML code will be passed throught the official W3C validator for the HTML portions:
 
-![w3cvalidator]()
+![w3cvalidatorindex]()
+![w3cvalidatorexperience]()
+![w3cvalidatorcertificates]()
+![w3cvalidatoraffiliations]()
+![w3cvalidatorportfolio]()
+![w3cvalidatorcontact]()
 
 Once the site has been deployed the CSS code will be passed throught the official Jigsaw validator for the CSS portions:
 
@@ -293,7 +408,9 @@ Once the site has been deployed the CSS code will be passed throught the officia
 # Deployment Process
 
 ## Direct Deployment
-The site was deployed to GitHub pages. 
+
+The site was deployed to GitHub pages. The repository link can be found here - https://github.com/Sphere42/MSP-1
+
 The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab
 
@@ -313,13 +430,6 @@ The steps to deploy are as follows:
 
 ![finallink]()
 
-The repository link can be found here - https://github.com/Sphere42/MSP-1
-
-
-
-## Copying the Repository
-To copy the code to your own repository, complete the following steps:
-- 
 
 
 # Credits 
@@ -328,7 +438,8 @@ This project could not have been created without the following:
 ## Code 
 
 - The basis for the accordion text was learned from [Code Institute](https://codeconvey.com/responsive-accordion-pure-css/)
-- The basis for the Tooltips hover text was learned from [Log Rocket Blog](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)
+- <s>The basis for the Tooltips hover text was learned from [Log Rocket Blog](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)</s>
+            After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
 - The basis for the form was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
 
@@ -343,11 +454,11 @@ This project could not have been created without the following:
 
 ## Additional Thanks
 
-Independant Reviewers: 
+Independant Reviewers: Tom Walsh, Daragh Curtis.
 
 Code Institute (https://codeinstitute.net/)
 
-Mentor: Felipe Souza Alarco
+Mentor: Felipe Souza Alarcon
  
 
 
