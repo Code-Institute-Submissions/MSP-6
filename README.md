@@ -183,12 +183,12 @@ Below is the initial wire frame:
 
 __Desktop__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG" alt-text="desktop header" width="500" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG" alt-text="desktop header"/>
 </p>
 
 __Tablet__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG" alt-text="tablet header" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG" alt-text="tablet header"/>
 </p>
 
 __Mobile__
@@ -407,36 +407,36 @@ __Desktop Chrome:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="500" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="400" height="300" />
 </p>
 
 __Desktop Firefox:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="500" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="400" height="300" />
 </p>
 
 __Desktop Edge:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="500" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="500" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="400" height="300" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="400" height="300" />
 </p>
 
 ## User Functionality
@@ -521,6 +521,7 @@ This project could not have been created without the following:
 - https://gitpod.io - IDE tool preferred by Code Institute
 - https://validator.w3.org/#validate_by_input - HTML validator
 - https://jigsaw.w3.org/css-validator/#validate_by_input - CSS validator
+- https://https://favicon.io/ - favicon generator
 
 
 ## Additional Thanks
