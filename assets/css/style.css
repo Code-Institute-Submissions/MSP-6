@@ -422,7 +422,7 @@ textarea {
 
 /* Navigation bar for all pages for max width 1000px*/
     #menu {
-        grid-template-columns: 3;
+        grid-template-columns: 33%;
         left: 2%;
     }
 
@@ -467,7 +467,7 @@ textarea {
     }
 
     .aboutme p {
-        text-indent: none;
+        text-indent: 0%;
         font-size: 18px;
     }
     
@@ -483,7 +483,7 @@ textarea {
     .responsibilities, .details {
         padding-top: 20px;
         padding-bottom: 10px;
-        text-align: none;
+        text-align: unset;
         position: relative;
         height: auto;
     }
@@ -542,7 +542,6 @@ textarea {
         text-align: center;
         font-size: large;
         top: 120px;
-        float: center;
         width:80%;
         padding-left: 30px;
         animation: none;
@@ -564,7 +563,7 @@ textarea {
 
     /* Navigation bar for all pages for max width 700px */
     #menu {
-        grid-template-columns: 2;
+        grid-template-columns: 50%;
         left: 35px;
     }
 
@@ -618,7 +617,7 @@ textarea {
     }
 
     .aboutme p {
-        text-indent: none;
+        text-indent: unset;
         font-size: 16px;
     }
     .aboutmeskill li {
@@ -637,7 +636,7 @@ textarea {
     .responsibilities, .details {
         padding-top: 20px;
         padding-bottom: 10px;
-        text-align: none;
+        text-align: unset;
         position: relative;
         min-height: auto;
         font-size: 14px;
