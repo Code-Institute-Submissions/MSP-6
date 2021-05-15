@@ -284,7 +284,18 @@ input[type="checkbox"] {
     padding: 0 60px 0 20px;
 }
 
-#certdetails1 a, #certdetails2 a, #certdetails3 a, #certdetails4 a, #certdetails5 a, #certdetails6 a, #certdetails7 a {
+.grid-item h2, .grid-item h3{
+    text-align: left;
+}
+
+.grid-item a{
+    text-decoration: none;
+    color: inherit;
+    text-align: left;
+}
+
+
+/*#certdetails1 a, #certdetails2 a, #certdetails3 a, #certdetails4 a, #certdetails5 a, #certdetails6 a, #certdetails7 a {
     text-decoration: none;
     color: inherit;
     left: 100%;
@@ -292,7 +303,7 @@ input[type="checkbox"] {
 
 #certdetails1, #certdetails2, #certdetails3, #certdetails4, #certdetails5, #certdetails6, #certdetails7 {
     text-align: left;
-}
+}*/
 
  /* specific content formatting for affiliations page */
 .disclaimer {
@@ -496,6 +507,10 @@ textarea {
 
     .grid-item {
         padding-left: 20px;
+    }
+
+    .grid-item h2, .grid-item h3{
+        text-align: center;
     }
 
 /* Contact page formatting for max width 1000px */
