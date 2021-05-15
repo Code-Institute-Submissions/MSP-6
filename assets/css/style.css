@@ -384,6 +384,10 @@ textarea {
     .contact-form {
         left: 25%;
     }
+
+    #menu {
+        width: 90%;
+    }
 }
 
 /* media styles for standard generic tablets */
@@ -518,7 +522,7 @@ textarea {
         border-radius: 50%;
         animation-name: none;
         overflow: hidden;
-        padding-left: 5%;
+        padding-left: 0;
     }
 
     /* Header text settings for max width 700px */

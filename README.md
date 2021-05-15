@@ -58,15 +58,18 @@ Header will consist of:
   - Professional photo to the left.
   - Name, current job title, quote to the right of the photo on three lines.
   - Quote contents will change per page.
+
 Table of Contents / Navigation bar.
   - Horizontally displayed, directly under the header.
   - Each Option will be a different (light colour).
   - Each option will appear darker when user is on that page (or hovers mouse over).
   - Box Shaped.
+
 Body of page
   - Will be a lighter/simple background to enable easy reading of content.
   - Will appear directly under the Table of Contents/Navigation bar
   - Contents is detailed in the following sections
+
 Footer
   - Will appear at the base and remain static across all pages
   - Will contain the following info:
@@ -76,7 +79,7 @@ Footer
 
 ## Home Page
 
-The home page is the first page a user will land on. This page will provide an image and a basic summary.
+The About Me page is the first page a user will land on. This page will provide an image and a basic summary.
 
 Key features:
 -	Header should be different background/colour to the body of the page
@@ -84,7 +87,10 @@ Key features:
 
 Below is the initial wire frame:
 
-![Home Page](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/aboutwf.png)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/aboutwf.png" alt-text="about page wireframe" width="200" height="300" />
+</p>
+
 
 ## Work Experience/History
 
@@ -98,7 +104,10 @@ Key features:
 
 Below is the initial wire frame:
 
-![Experience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/experiencewf.png)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/experiencewf.png" alt-text="experience page wireframe" width="200" height="300" />
+</p>
+
 
 ## Certification/Education
 
@@ -113,7 +122,9 @@ Key features:
 
 Below is the initial wire frame:
 
-![Certifications](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/certwf.png)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/certwf.png" alt-text="certificate page wireframe" width="200" height="300" />
+</p>
 
 
 ## Affiliations/Groups
@@ -126,7 +137,9 @@ Key features:
 
 Below is the initial wire frame:
 
-![Affiliations](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/afillwf.png)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/afillwf.png" alt-text="affiliations page wireframe" width="200" height="300" />
+</p>
 
 
 ## Portfolio/Skills
@@ -139,7 +152,9 @@ Key features:
 
 Below is the initial wire frame:
 
-![Portfolio](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/portwf.png)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/portwf.png" alt-text="portfolio page wireframe" width="200" height="300" />
+</p>
 
 
 ## Contact
@@ -150,12 +165,11 @@ Key Features:
 -	Ability to send me an email using a contact form on the page
 -	Contact information including email, telephone, linkedin etc
 
-
 Below is the initial wire frame:
 
-![Contact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png)
-
-
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png" alt-text="contact page wireframe" width="200" height="300" />
+</p>
 
 
 # Final/Existing Feature Outcomes
@@ -167,14 +181,20 @@ Below is the initial wire frame:
 
   - Featured on all six pages, containing a profile (cartoon) image to the left. On the right will be my name, along with a quote that is unique for each page.
 
-Desktop  
-![headerdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG)
+__Desktop__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG" alt-text="desktop header" width="200" height="300" />
+</p>
 
-Tablet
-![headertablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG)
+__Tablet__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG" alt-text="tablet header" width="150" height="200" />
+</p>
 
-Mobile
-![headermobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG)
+__Mobile__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG" alt-text="tablet header" width="100" height="150" />
+</p>
 
 
 - __Navigation Bar__
@@ -182,14 +202,20 @@ Mobile
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-Desktop
-![navbar](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesktop.PNG)
+__Desktop__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesktop.PNG" alt-text="desktop nav bar" width="300" height="100" />
+</p>
 
-Tablet
-![navbartablet](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG)
+__Tablet__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG" alt-text="tablet nav bar" width="150" height="200" />
+</p>
 
-Mobile
-![navbarmobile](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG)
+__Mobile__
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG" alt-text="tablet nav bar" width="100" height="150" />
+</p>
 
 
 - __Footer__
@@ -197,9 +223,10 @@ Mobile
   - Featured on all six pages, the footer will contain links to the Linked in page and GitHub repositories for Courtney Marshall. Along with a copyright reference.
   - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footer.PNG" alt-text="footer bar" width="300" height="100" />
+</p>
 
-
-![footer](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footer.PNG)
 
 - __About Page__
 
@@ -207,9 +234,10 @@ Mobile
   - The body of this page provides high level information about Courtney Marshall
   - The information is static and brief
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopabout.PNG" alt-text="about page" width="200" height="300" />
+</p>
 
-
-![aboutdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopabout.PNG)
 
 - __Experience Page__
 
@@ -220,9 +248,10 @@ Mobile
   - Clicking on the "Title" again will close the accordion text
   - All content can also be found on the LinkedIn page for Courtney Marshall
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopexperience.PNG" alt-text="experience page" width="200" height="300" />
+</p>
 
-
-![experiencedesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopexperience.PNG)
 
 - __Certificates Page__
 
@@ -232,9 +261,10 @@ Mobile
   - Name of the course, with a link to the certificate validation website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
   - Name of the course provider, with a link to the specific course website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG" alt-text="certification page" width="200" height="300" />
+</p>
 
-
-![certificatesdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG)
 
 - __Affiliations Page__
 
@@ -244,25 +274,28 @@ Mobile
   - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Groups website.
   - Clicking on the "Title" again will close the accordion text
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopaffil.PNG" alt-text="affiliations page" width="200" height="300" />
+</p>
 
-
-![affiliationsdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopaffil.PNG)
 
 - __Portfolio Page__
 
   - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created.
 
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopport.PNG" alt-text="portfolio page" width="200" height="300" />
+</p>
 
-
-![portfoliodesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopport.PNG)
 
 - __Contact Page__
 
   - The body of this page provides a form by which the User can send a message to Courtney Marshall.
   - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
 
-
-![contactdesk](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG)
+<p float="left">
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG" alt-text="contact page" width="200" height="300" />
+</p>
 
 
 # Features to be Implemented
@@ -348,12 +381,12 @@ __iPad Pro:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="150" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif" width="150" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif" width="150" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif" width="150" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif" width="150" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif" width="150" height="200" />
 </p>
 
 __Surface Duo:__
@@ -361,12 +394,12 @@ __Surface Duo:__
 Device width 540px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif" width="100" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif" width="125" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif" width="125" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif" width="125" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif" width="125" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif" width="125" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif" width="125" height="200" />
 </p>
 
 __Desktop Chrome:__
@@ -374,36 +407,36 @@ __Desktop Chrome:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="300" height="200" />
 </p>
 
 __Desktop Firefox:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="300" height="200" />
 </p>
 
 __Desktop Edge:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="200" height="100" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="200" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="300" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="300" height="200" />
 </p>
 
 ## User Functionality
@@ -432,6 +465,8 @@ Once the site has been deployed the CSS code will be passed throught the officia
 - When using the browser "autofill" option the background of the form field will revert to white instead of retaining its current background image. This appears to be due to the implementation of autofill and would require Javascript to resolve in the future.
 
 - Random occurance: On occasion when accessing the website on a mobile device (primarily a phone) a white border appears on the right side of the screen. Upon navigating to a different page within the site, this bar will disappear.
+
+- Linked to the previous issue, there is an over flow in the site that courses a white border to appear, this is not instantly visible, but appears on mobile/tablet devices when the user attempts to navigate horizontally
 
 
 
@@ -468,7 +503,7 @@ This project could not have been created without the following:
 
 - The basis for the accordion text was learned from [Code Institute](https://codeconvey.com/responsive-accordion-pure-css/)
 - <s>The basis for the Tooltips hover text was learned from [Log Rocket Blog](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)</s>
-            After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
+            - After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
 - The basis for the form was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
 
