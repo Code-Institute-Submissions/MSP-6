@@ -18,32 +18,33 @@ It will be user friendly across multiple devices.
 ## Benefits and Rational
 
 Such a website will:
--	enable recruiters / potential employers to view Courtney Marshall details in a single location,
--	provide simple ability for users to validate certificates obtained by Courtney Marshall
--	provide a centralised location for all publicly available coding examples
+-	Enable recruiters / potential employers to view Courtney Marshall's professional details in a single location,
+-	Provide simple ability for users to validate certificates obtained by Courtney Marshall
+-	Provide a centralised location for all publicly available coding examples
 
-## User Stories
+# User Stories
 
 Below is a high-level list of User Stories for the purposes of development, testing and delivery.
 
 Business Case User stories:
--	As a User I want to easily determine Courtney’s Work History
--	As a User I want to easily determine Courtney’s Educational achievements
--	As a User I want to easily view Courtney’s Portfolio
--	As a User I want to easily determine what groups Courtney is affiliated with
+-	As a User I want to easily determine Courtney Marshall’s work history
+-	As a User I want to easily determine Courtney Marshall’s educational achievements
+-	As a User I want to easily view Courtney Marshall’s software portfolio
+-	As a User I want to easily determine what groups Courtney Marshall is affiliated with
 -	As a User I want to easily determine where content has been obtained from (if from, or maintained on, external sources)
 -	As a User I want to easily identify which page of the site I am on at any given time
--	As a User I want to easily be able to contact Courtney.
--	As a User I want to easily verify the validity of Courtney’s listed certifications
+-	As a User I want to easily be able to contact Courtney Marshall.
+-	As a User I want to easily verify the validity of Courtney Marshall’s listed certifications
 
 Functional User stories:
 -	As a User I want all external links to open in a new browser tab
 -	As a Visually impaired user I want to know that all non-text elements have planned alt text equivalents
 -	As a User I want to ensure the website HTML code passes through the official W3C validator without faults
 -	As a User I want to ensure the website CSS code passes through the official (Jigsaw) validator without faults
+- As a User I want the site to load quickly, without delays
 -	As a User I want to ensure that images are displayed without pixelization irrespective of screen size
 -	As a User I want to ensure there are screen captures of the finished project within the README document
--	As a User I want to be able to easily deploy this site to the cloud.
+-	As a User I want to be able to easily deploy this site
 *Interpreted from the Assignment document*
 
 
@@ -186,21 +187,18 @@ __Desktop__
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesk.PNG" alt-text="desktop header"/>
 </p>
 
-__Tablet__
-<p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermax1000.PNG" alt-text="tablet header"/>
-</p>
-
 __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG" alt-text="tablet header"/>
 </p>
 
 
+
 - __Navigation Bar__
 
   - Featured on all six pages, the full responsive navigation bar includes links to the About, Experience, Certifications, Affiliations, Portfolio, Contact pages. It will appear identical on each page. The active page for the User will have an underline to indicate the Users current location.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - The Navigation bar will appear as a single row in desktop mode, in two rows for tablets and three rows for mobile to enable simplified use across multiple devices. 
 
 __Desktop__
 <p float="left">
@@ -255,11 +253,11 @@ __Mobile__
 
 - __Certificates Page__
 
-  - The body of this page details the Certificates obtain by Courtney Marshall
+  - The body of this page details the professional Certificates obtain by Courtney Marshall
   - Each entry contains the following:
-  - Logo of the course provider with a hyperlink to their website (opens in a new tab)
-  - Name of the course, with a link to the certificate validation website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
-  - Name of the course provider, with a link to the specific course website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
+      - Logo of the course provider with a hyperlink to their website (opens in a new tab)
+      - Name of the course, with a link to the certificate validation website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
+      - Name of the course provider, with a link to the specific course website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG" alt-text="certification page" width="500" height="300" />
@@ -268,11 +266,11 @@ __Mobile__
 
 - __Affiliations Page__
 
-  - The body of this page provides details of the main groups that Courtney Marshall if affiliated with.
-  - The groups are first presented as closed according text so to not overwhelm the User with information.
+  - The body of this page provides details of the main groups that Courtney Marshall is affiliated with.
+  - The groups are first presented as closed according text (similar to that found on the experience page of this site) so to not overwhelm the User with information.
   - Each block will initially show the "Title" = Group Name
-  - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Groups website.
-  - Clicking on the "Title" again will close the accordion text
+  - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Group's website.
+  - Clicking on the Title/Group name again will close the accordion text
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopaffil.PNG" alt-text="affiliations page" width="500" height="300" />
@@ -304,7 +302,7 @@ __Mobile__
 
 # Testing 
 
-The subsections detail the proposed approach for testing of the final product. Due to the size and nature of this project, a full V-Style testing approach will not be required. Instead, a simplified version of agile will be adopted.
+The subsections detail the proposed approach for testing of the final product. Due to the size and nature of this project, a full testing approach (ie V-model or Agile) will not be required. Instead, a simplified version of agile will be adopted.
 
 ## Unit Testing
  
@@ -456,13 +454,25 @@ Once the site has been deployed the CSS code will be passed throught the officia
 
 ![jigsawvalidator](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/cssjigsawvalidator.PNG)
 
+Once the site has been deployed the sites loading/performance will be tested to ensure there are no undue delays for the User:
+
+![speedtestresults](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/speedtest.PNG)
+
+
+
+All links will be manually accessed to ensure that the correct page opens in a new tab.
+
+All pages will be visually inspected to ensure all logos have loaded
+
+
+
 ### Unfixed bugs
 
 - When using the browser "autofill" option the background of the form field will revert to white instead of retaining its current background image. This appears to be due to the implementation of autofill and would require Javascript to resolve in the future.
 
 - Random occurance: On occasion when accessing the website on a mobile device (primarily a phone) a white border appears on the right side of the screen. Upon navigating to a different page within the site, this bar will disappear.
 
-- Linked to the previous issue, there is an over flow in the site that courses a white border to appear, this is not instantly visible, but appears on mobile/tablet devices when the user attempts to navigate horizontally
+- <s> Linked to the previous issue, there is an over flow in the site that courses a white border to appear, this is not instantly visible, but appears on mobile/tablet devices when the user attempts to navigate horizontally</s> This error was determined to be an overflow issue with both the profile picture and navigation bar when accessed in mobile/tablet devices.
 
 
 
@@ -502,7 +512,7 @@ This project could not have been created without the following:
             - After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
 - The basis for the form was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
-- The final form is directed towards the same form validator used in the code institutes Love Running project. [Code Institute Form Dump](https://formdump.codeinstitute.net/)
+- The Contact form Submit option is directed towards the same form validator used in the code institutes Love Running project. [Code Institute Form Dump](https://formdump.codeinstitute.net/)
 
 ## Media
 
