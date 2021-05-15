@@ -294,17 +294,6 @@ input[type="checkbox"] {
     text-align: left;
 }
 
-
-/*#certdetails1 a, #certdetails2 a, #certdetails3 a, #certdetails4 a, #certdetails5 a, #certdetails6 a, #certdetails7 a {
-    text-decoration: none;
-    color: inherit;
-    left: 100%;
-}
-
-#certdetails1, #certdetails2, #certdetails3, #certdetails4, #certdetails5, #certdetails6, #certdetails7 {
-    text-align: left;
-}*/
-
  /* specific content formatting for affiliations page */
 .disclaimer {
     text-align: center;
@@ -530,11 +519,19 @@ textarea {
         width: 100%;
     }
 
+    #profile-border {
+        width: 250px;
+        height: 350px;
+        border-radius: 10%;
+        margin: 30px auto;
+        margin-left: 10%;
+    }
+
     #profile-pic {
         background: url("../images/profile-1.png") no-repeat center center;
         height: 100%;
         width: 85%;
-        border-radius: 50%;
+        border-radius: 10%;
         animation-name: none;
         overflow: hidden;
         padding-left: 0;

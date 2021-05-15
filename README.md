@@ -183,7 +183,7 @@ Below is the initial wire frame:
 
 __Desktop__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesktop.PNG" alt-text="desktop header"/>
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headerdesk.PNG" alt-text="desktop header"/>
 </p>
 
 __Tablet__
@@ -204,7 +204,7 @@ __Mobile__
 
 __Desktop__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesktop.PNG" alt-text="desktop nav bar" width="500" height="500" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG" alt-text="desktop nav bar" width="500" height="500" />
 </p>
 
 __Tablet__
@@ -224,7 +224,7 @@ __Mobile__
   - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footer.PNG" alt-text="footer bar" width="500" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG" alt-text="footer bar" width="500" height="100" />
 </p>
 
 
