@@ -258,8 +258,8 @@ __Mobile__
   - The body of this page details the Certificates obtain by Courtney Marshall
   - Each entry contains the following:
   - Logo of the course provider with a hyperlink to their website (opens in a new tab)
-  - Name of the course, with a link to the certificate validation website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
-  - Name of the course provider, with a link to the specific course website (opens in a new tab), and a popup text box (appearing when user hovers the curser over the text) explaining same.
+  - Name of the course, with a link to the certificate validation website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
+  - Name of the course provider, with a link to the specific course website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG" alt-text="certification page" width="200" height="300" />
@@ -514,6 +514,13 @@ This project could not have been created without the following:
 - All logo images are obtained from the respective company/group website. The link where they are obtained is the link built into each image on the site.
 - The under construction image on the portfolio page is from:
 [wallpaperup](https://www.wallpaperup.com/uploads/wallpapers/2014/09/25/455952/8d9dee7d6978d6dda0a1ee308ec01187-700.jpg)
+
+## Tools
+- https://gtmetrix.com - speed testing the loading times for the website
+- https://tinypng.com - to reduce image file size without removing quality
+- https://gitpod.io - IDE tool preferred by Code Institute
+- https://validator.w3.org/#validate_by_input - HTML validator
+- https://jigsaw.w3.org/css-validator/#validate_by_input - CSS validator
 
 
 ## Additional Thanks
