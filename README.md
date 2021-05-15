@@ -193,7 +193,7 @@ __Tablet__
 
 __Mobile__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG" alt-text="tablet header" width="100" height="150" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG" alt-text="tablet header"/>
 </p>
 
 
@@ -204,17 +204,17 @@ __Mobile__
 
 __Desktop__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG" alt-text="desktop nav bar" width="500" height="500" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navdesk.PNG" alt-text="desktop nav bar"/>
 </p>
 
 __Tablet__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG" alt-text="tablet nav bar" width="200" height="200" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbartablet.PNG" alt-text="tablet nav bar"/>
 </p>
 
 __Mobile__
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG" alt-text="tablet nav bar" width="150" height="250" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG" alt-text="tablet nav bar"/>
 </p>
 
 
@@ -224,7 +224,7 @@ __Mobile__
   - These links will open in a new browser tab to allow the user to view the media pages without leaving the site.
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG" alt-text="footer bar" width="500" height="100" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG" alt-text="footer bar"/>
 </p>
 
 
@@ -322,7 +322,7 @@ This website has been developed with the following compatibility in mind:
 - Standard generic tablet sizes (max width 1000px), 
 - Common mobile size (max width 700px).
 
-__Compatability testing:__
+## Compatability testing:
 
 __iphone6/7/8 plus:__
 
@@ -404,8 +404,6 @@ Device width 540px
 
 __Desktop Chrome:__
 
-Device width 1024px
-
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="400" height="300" />
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="400" height="300" />
@@ -416,7 +414,6 @@ Device width 1024px
 </p>
 
 __Desktop Firefox:__
-Device width 1024px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="400" height="300" />
@@ -428,7 +425,6 @@ Device width 1024px
 </p>
 
 __Desktop Edge:__
-Device width 1024px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="400" height="300" />
@@ -449,16 +445,16 @@ Once a working prototype is available, third-party individuals will review the w
 
 Once the site has been deployed the HTML code will be passed throught the official W3C validator for the HTML portions:
 
-![w3cvalidatorindex]()
-![w3cvalidatorexperience]()
-![w3cvalidatorcertificates]()
-![w3cvalidatoraffiliations]()
-![w3cvalidatorportfolio]()
-![w3cvalidatorcontact]()
+![w3cvalidatorindex](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutw3cresult.PNG)
+![w3cvalidatorexperience](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experw3cresult.PNG)
+![w3cvalidatorcertificates](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certw3cresult.PNG)
+![w3cvalidatoraffiliations](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilw3cresult.PNG)
+![w3cvalidatorportfolio](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portw3cresult.PNG)
+![w3cvalidatorcontact](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactw3cresult.PNG)
 
 Once the site has been deployed the CSS code will be passed throught the official Jigsaw validator for the CSS portions:
 
-![jigsawvalidator]()
+![jigsawvalidator](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/cssjigsawvalidator.PNG)
 
 ### Unfixed bugs
 
@@ -506,6 +502,7 @@ This project could not have been created without the following:
             - After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
 - The basis for the form was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
+- The final form is directed towards the same form validator used in the code institutes Love Running project. [Code Institute Form Dump](https://formdump.codeinstitute.net/)
 
 ## Media
 
