@@ -278,6 +278,7 @@ __Mobile__
 
 # Features to be Implemented
 - Further develop the Portfolio Page as new projects become available
+- Currently the contact form utilises the Code Institute formdump function and does not actually trigger a message to the sites creator. This will be further developed.
 
 # Testing 
 
