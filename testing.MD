@@ -61,7 +61,7 @@ __iPad Pro:__
 Device width 1024px
 
 <p float="left">
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="3000" height="400" />
+<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="300" height="400" />
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif" width="300" height="400" />
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif" width="300" height="400" />
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif" width="300" height="400" />
