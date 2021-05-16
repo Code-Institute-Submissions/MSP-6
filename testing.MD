@@ -145,3 +145,9 @@ All pages will be visually inspected to ensure all logos have loaded
 - Random occurance: On occasion when accessing the website on a mobile device (primarily a phone) a white border appears on the right side of the screen. Upon navigating to a different page within the site, this bar will disappear.
 
 - <s> Linked to the previous issue, there is an over flow in the site that courses a white border to appear, this is not instantly visible, but appears on mobile/tablet devices when the user attempts to navigate horizontally</s> This error was determined to be an overflow issue with both the profile picture and navigation bar when accessed in mobile/tablet devices.
+
+- There is currently a warning message appearing in the Console section of the Chrome developer tools:
+"Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort=()"
+Based on highlevel [research](https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/) this is due to a header being automatically added to sites released via GitHub pages.
+This is the new header used to block the Federated Cohorts of Learning (FLoC), a tracking technology utilised by Google.
+This warning error is not currently affecting the performance of the website, and therefore will not be resolved prior to deployment. Further research will be conducted surrounding this warning error.
