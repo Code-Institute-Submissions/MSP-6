@@ -442,7 +442,7 @@ This project could not have been created without the following:
 - The basis for the accordion text was learned from [Code Convey](https://codeconvey.com/responsive-accordion-pure-css/)
 - <s>The basis for the Tooltips hover text was learned from [Log Rocket Blog](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)</s>
             - After User testing, it has been determined that including hover message boxes in the certificate page is over engineering the development of the page. They are not beneficial for the user. Instead Icon links will be utilised for the validation and course links.
-- The basis for the contact form was learned from the Love Running Project from Code Institute
+- The basis for the contact form and the image tranform actions was learned from the Love Running Project from Code Institute
 - The icons across the site were taken from [Font Awesome](https://fontawesome.com/)
 - The Contact form Submit option is directed towards the same form validator used in the code institutes Love Running project. [Code Institute Form Dump](https://formdump.codeinstitute.net/)
 
