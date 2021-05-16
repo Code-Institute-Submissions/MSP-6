@@ -1,4 +1,5 @@
 # Personal Website
+
 The purpose of Milestone Project 1 is to create a personal portfolio for Courtney Marshall.
 
 # Project Summary
@@ -13,7 +14,6 @@ The Project will enable a user to view:
 It will be user friendly across multiple devices.
 
 ![Multi Device Preview](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/multipc.PNG)
-
 
 ## Benefits and Rational
 
@@ -47,8 +47,6 @@ Functional User stories:
 -	As a User I want to be able to easily deploy this site
 *Interpreted from the Assignment document*
 
-
-
 # Functional Requirements Scope
 
 ## Design Consistancies
@@ -77,7 +75,6 @@ Footer
   - Github and linkedin links
   - ©Courtney Marshall 2021
 
-
 ## Home Page
 
 The About Me page is the first page a user will land on. This page will provide an image and a basic summary.
@@ -91,7 +88,6 @@ Below is the initial wire frame:
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/aboutwf.png" alt-text="about page wireframe" width="500" height="300" />
 </p>
-
 
 ## Work Experience/History
 
@@ -108,7 +104,6 @@ Below is the initial wire frame:
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/experiencewf.png" alt-text="experience page wireframe" width="500" height="300" />
 </p>
-
 
 ## Certification/Education
 
@@ -127,7 +122,6 @@ Below is the initial wire frame:
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/certwf.png" alt-text="certificate page wireframe" width="500" height="300" />
 </p>
 
-
 ## Affiliations/Groups
 
 This page will detail the various Groups where membership is held.
@@ -141,7 +135,6 @@ Below is the initial wire frame:
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/afillwf.png" alt-text="affiliations page wireframe" width="500" height="300" />
 </p>
-
 
 ## Portfolio/Skills
 
@@ -157,7 +150,6 @@ Below is the initial wire frame:
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/portwf.png" alt-text="portfolio page wireframe" width="500" height="300" />
 </p>
 
-
 ## Contact
 
 This page will enable to User to contact me directly.
@@ -172,11 +164,9 @@ Below is the initial wire frame:
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/concepts/contactwf.png" alt-text="contact page wireframe" width="500" height="300" />
 </p>
 
-
 # Final/Existing Feature Outcomes
 
 ![Multi Device Preview](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/multipc.PNG)
-
 
 - __Header Panel__
 
@@ -191,8 +181,6 @@ __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/headermobile.PNG" alt-text="tablet header"/>
 </p>
-
-
 
 - __Navigation Bar__
 
@@ -215,7 +203,6 @@ __Mobile__
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/navbarmobile.PNG" alt-text="tablet nav bar"/>
 </p>
 
-
 - __Footer__
 
   - Featured on all six pages, the footer will contain links to the Linked in page and GitHub repositories for Courtney Marshall. Along with a copyright reference.
@@ -224,7 +211,6 @@ __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/footerdesk.PNG" alt-text="footer bar"/>
 </p>
-
 
 - __About Page__
 
@@ -235,7 +221,6 @@ __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopabout.PNG" alt-text="about page" width="500" height="300" />
 </p>
-
 
 - __Experience Page__
 
@@ -250,7 +235,6 @@ __Mobile__
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopexperience.PNG" alt-text="experience page" width="500" height="300" />
 </p>
 
-
 - __Certificates Page__
 
   - The body of this page details the professional Certificates obtain by Courtney Marshall
@@ -262,7 +246,6 @@ __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG" alt-text="certification page" width="500" height="300" />
 </p>
-
 
 - __Affiliations Page__
 
@@ -276,7 +259,6 @@ __Mobile__
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopaffil.PNG" alt-text="affiliations page" width="500" height="300" />
 </p>
 
-
 - __Portfolio Page__
 
   - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created
@@ -284,7 +266,6 @@ __Mobile__
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopport.PNG" alt-text="portfolio page" width="500" height="300" />
 </p>
-
 
 - __Contact Page__
 
@@ -295,10 +276,8 @@ __Mobile__
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG" alt-text="contact page" width="500" height="300" />
 </p>
 
-
 # Features to be Implemented
 - Further develop the Portfolio Page as new projects become available
-
 
 # Testing 
 
@@ -322,115 +301,68 @@ This website has been developed with the following compatibility in mind:
 
 ## Compatability testing:
 
-__iphone6/7/8 plus:__
+Full test evidence can be found in the included ![TESTING.MD](https://github.com/Sphere42/MSP-1/blob/main/TESTING.MD) document.
 
+Below are examples of the compatability testing that was conducted on the following devices:
+
+__iPhone6/7/8 plus:__
 Device width: 414px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutiphone6.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experienceiphone6.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certificationiphone6.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afilliphone6.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portfolioiphone6.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactiphone6.gif" width="100" height="200" />
 </p>
 
 __samsung galaxy s5:__
-
 Device width 360px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsgs5.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersgs5.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsgs5.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillsgs5.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsgs5.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsgs5.gif" width="100" height="200" />
 </p>
 
 __Moto G4:__
-
 Device width 360px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutmotog4.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experiencemotog4.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certmotog4.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilmotog4.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portmtotg4.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactmotog4.gif" width="100" height="200" />
 </p>
 
 __Pixel 2:__
-
 Device width 411px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutpixel2.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experpixel2.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certpixel2.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/afillpixel2.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portpixel2.gif" width="100" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactpixel2.gif" width="100" height="200" />
 </p>
 
 __iPad Pro:__
-
 Device width 1024px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutipadpro.gif" width="150" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/experipadpro.gif" width="150" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certipadpro.gif" width="150" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilipadpro.gif" width="150" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portipadpro.gif" width="150" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactipadpro.gif" width="150" height="200" />
 </p>
 
 __Surface Duo:__
-
 Device width 540px
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/aboutsurfaceduo.gif" width="125" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/expersurfaceduo.gif" width="125" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/certsurfaceduo.gif" width="125" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/affilsurfaceduo.gif" width="125" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/portsurfaceduo.gif" width="125" height="200" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/contactsurface%20duo.gif" width="125" height="200" />
 </p>
 
 __Desktop Chrome:__
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeabout.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeexper.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromecert.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeaffil.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/chromeport.gif" width="400" height="300" />
 </p>
 
 __Desktop Firefox:__
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxabout.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxexper.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcert.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxaffil.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxport.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/firefoxcontact.gif" width="400" height="300" />
 </p>
 
 __Desktop Edge:__
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeabout.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeexper.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecert.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeaffil.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgeport.gif" width="400" height="300" />
-<img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/edgecontact.gif" width="400" height="300" />
 </p>
 
 ## User Functionality
@@ -458,13 +390,9 @@ Once the site has been deployed the sites loading/performance will be tested to 
 
 ![speedtestresults](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/testing/speedtest.PNG)
 
-
-
 All links will be manually accessed to ensure that the correct page opens in a new tab.
 
 All pages will be visually inspected to ensure all logos have loaded
-
-
 
 ### Unfixed bugs
 
@@ -473,8 +401,6 @@ All pages will be visually inspected to ensure all logos have loaded
 - Random occurance: On occasion when accessing the website on a mobile device (primarily a phone) a white border appears on the right side of the screen. Upon navigating to a different page within the site, this bar will disappear.
 
 - <s> Linked to the previous issue, there is an over flow in the site that courses a white border to appear, this is not instantly visible, but appears on mobile/tablet devices when the user attempts to navigate horizontally</s> This error was determined to be an overflow issue with both the profile picture and navigation bar when accessed in mobile/tablet devices.
-
-
 
 # Deployment Process
 
@@ -500,7 +426,6 @@ The steps to deploy are as follows:
     Note: It takes time to build the site, please wait 5-10 mins before clicking on the link to access the deployed site.
 
 ![finallink](https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/deploy/deploy4.PNG)
-
 
 # Credits 
 This project could not have been created without the following:
@@ -529,7 +454,6 @@ This project could not have been created without the following:
 - https://validator.w3.org/#validate_by_input - HTML validator
 - https://jigsaw.w3.org/css-validator/#validate_by_input - CSS validator
 - https://https://favicon.io/ - favicon generator
-
 
 ## Additional Thanks
 
