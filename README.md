@@ -18,7 +18,7 @@ It will be user friendly across multiple devices.
 ## Benefits and Rational
 
 Such a website will:
--	Enable recruiters / potential employers to view Courtney Marshall's professional details in a single location,
+-	Enable recruiters / potential employers to view Courtney Marshall's professional details in a single location
 -	Provide simple ability for users to validate certificates obtained by Courtney Marshall
 -	Provide a centralised location for all publicly available coding examples
 
@@ -33,7 +33,7 @@ Business Case User stories:
 -	As a User I want to easily determine what groups Courtney Marshall is affiliated with
 -	As a User I want to easily determine where content has been obtained from (if from, or maintained on, external sources)
 -	As a User I want to easily identify which page of the site I am on at any given time
--	As a User I want to easily be able to contact Courtney Marshall.
+-	As a User I want to easily be able to contact Courtney Marshall
 -	As a User I want to easily verify the validity of Courtney Marshall’s listed certifications
 
 Functional User stories:
@@ -55,19 +55,19 @@ Functional User stories:
 The following are a list of design aspects that must be maintained throughout the site. 
 
 Header will consist of:
-  - Background colour/image different to the body, but matching the footer.
-  - Professional photo to the left.
-  - Name, current job title, quote to the right of the photo on three lines.
-  - Quote contents will change per page.
+  - Background colour/image different to the body, but matching the footer
+  - Professional photo to the left
+  - Name, current job title, quote to the right of the photo on three lines
+  - Quote contents will change per page
 
-Table of Contents / Navigation bar.
-  - Horizontally displayed, directly under the header.
-  - Each Option will be a different (light colour).
-  - Each option will appear darker when user is on that page (or hovers mouse over).
-  - Box Shaped.
+Table of Contents / Navigation bar:
+  - Horizontally displayed, directly under the header
+  - Each Option will be a different (light colour)
+  - Each option will appear darker when user is on that page (or hovers mouse over)
+  - Box Shaped
 
 Body of page
-  - Will be a lighter/simple background to enable easy reading of content.
+  - Will be a lighter/simple background to enable easy reading of content
   - Will appear directly under the Table of Contents/Navigation bar
   - Contents is detailed in the following sections
 
@@ -75,7 +75,7 @@ Footer
   - Will appear at the base and remain static across all pages
   - Will contain the following info:
   - Github and linkedin links
-  - ©CourtneyMarshall2021
+  - ©Courtney Marshall 2021
 
 
 ## Home Page
@@ -240,9 +240,9 @@ __Mobile__
 - __Experience Page__
 
   - The body of this page provides details of the employment history of Courtney Marshall
-  - The roles are first presented as closed according text so to not overwhelm the User with information.
+  - The roles are first presented as closed according text so to not overwhelm the User with information
   - Each block will initially show the "Title" = Company Name and the Role Name
-  - Once selected the according text will expand to show the company logo to the left of the page, with a hyper link to the company's webpage, this link will open in a new tab. Next to this image will be a list of responsibilities undertaken during the contract.
+  - Once selected the according text will expand to show the company logo to the left of the page, with a hyper link to the company's webpage, this link will open in a new tab. Next to this image will be a list of responsibilities undertaken during the contract
   - Clicking on the "Title" again will close the accordion text
   - All content can also be found on the LinkedIn page for Courtney Marshall
 
@@ -256,8 +256,8 @@ __Mobile__
   - The body of this page details the professional Certificates obtain by Courtney Marshall
   - Each entry contains the following:
       - Logo of the course provider with a hyperlink to their website (opens in a new tab)
-      - Name of the course, with a link to the certificate validation website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
-      - Name of the course provider, with a link to the specific course website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same.</s>
+      - Name of the course, with a link to the certificate validation website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same</s>
+      - Name of the course provider, with a link to the specific course website (via an icon on the page, opens in a new tab), <s> and a popup text box (appearing when user hovers the curser over the text) explaining same</s>
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcert.PNG" alt-text="certification page" width="500" height="300" />
@@ -266,10 +266,10 @@ __Mobile__
 
 - __Affiliations Page__
 
-  - The body of this page provides details of the main groups that Courtney Marshall is affiliated with.
+  - The body of this page provides details of the main groups that Courtney Marshall is affiliated with
   - The groups are first presented as closed according text (similar to that found on the experience page of this site) so to not overwhelm the User with information.
   - Each block will initially show the "Title" = Group Name
-  - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Group's website.
+  - Once selected the according text will expand to show the Groups logo to the left of the page, with a hyper link to the Groups website, this link will open in a new tab. Next to this image will be details of each group, this information is extracted directly from the Group's website
   - Clicking on the Title/Group name again will close the accordion text
 
 <p float="left">
@@ -279,7 +279,7 @@ __Mobile__
 
 - __Portfolio Page__
 
-  - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created.
+  - The body of this page currently displays an under construction sign. This page will be further developed as more publicly available projects are created
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopport.PNG" alt-text="portfolio page" width="500" height="300" />
@@ -288,8 +288,8 @@ __Mobile__
 
 - __Contact Page__
 
-  - The body of this page provides a form by which the User can send a message to Courtney Marshall.
-  - The form will enable to User to include their name, email, phone number, a preferred contain method and a message.
+  - The body of this page provides a form by which the User can send a message to Courtney Marshall
+  - The form will enable to User to include their name, email, phone number, a preferred contain method and a message
 
 <p float="left">
 <img src="https://github.com/Sphere42/MSP-1/blob/main/assets/images/readme/final/desktopcontact.PNG" alt-text="contact page" width="500" height="300" />
